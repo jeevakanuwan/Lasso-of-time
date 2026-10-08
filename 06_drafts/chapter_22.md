@@ -38,7 +38,7 @@ The examiner did not understand the answer. It asked her to clarify.
 
 Mira declined.
 
-That night, the first confirmed biological anomaly appeared in the facility's routine health system. A Veyr technician's repair markers had fallen outside their normal synchronization range. The system classified the result as a minor metabolic irregularity and scheduled a follow-up scan. The technician remained active and continued working.
+That night, the first confirmed biological anomaly appeared in the facility's routine health system. A Veyr technician's repair markers had fallen outside their normal synchronisation range. The system classified the result as a minor metabolic irregularity and scheduled a follow-up scan. The technician remained active and continued working.
 
 A second report appeared several hours later, from a different ship in another system. The symptom was similar, but the records treated it as an unrelated event. A third report followed from a biological cargo station. Each case was small, and none triggered a network-wide alert.
 
