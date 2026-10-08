@@ -130,7 +130,7 @@ He turned toward her. “Because of my engineering pessimism?”
 
 He kissed her hair. The gesture was so ordinary that it frightened him more than the tests had.
 
-A new report arrived from command. The temporal correction window was expanding. The Veyr had begun synchronizing multiple orbital platforms, and the anomaly now affected archival systems across every continent. The command network could no longer guarantee that its orders remained in the same historical sequence long enough to be executed.
+A new report arrived from command. The temporal correction window was expanding. The Veyr had begun synchronising multiple orbital platforms, and the anomaly now affected archival systems across every continent. The command network could no longer guarantee that its orders remained in the same historical sequence long enough to be executed.
 
 AION's final test had to happen soon.
 
