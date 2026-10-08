@@ -8,7 +8,7 @@ Mira stood on the platform, studying the ring.
 
 “You're certain the destination window is before the invasion?”
 
-“As certain as the model allows,” Adrian said. “The strongest stable anchor we can resolve lies several months before the first Veyr arrival in the original timeline. The local sky should be clear. No human detection system should have any reason to look for them.”
+“As certain as the model allows,” Adrian said. “The strongest stable anchor we can resolve lies several months before the first recorded hostile arrival at Earth in the original timeline. The local sky should be clear. No human detection system should have any reason to look for them.”
 
 “Where will I emerge?”
 
