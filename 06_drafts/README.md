@@ -1,11 +1,21 @@
 # Prose Drafts
 
-Full prose will be developed here after the chapter architecture is approved.
+This directory contains full prose drafts, separate from chapter planning files.
 
-Workflow:
-1. Lock story bible.
-2. Draft chapter.
-3. Check continuity.
-4. Check science.
-5. Revise character arc.
-6. Move approved prose into manuscript order.
+## Current status
+
+- [Chapter 1 — The Sky Was Already Occupied](chapter_01.md): first prose draft complete.
+- Chapters 2–24: outline stage.
+
+## Drafting workflow
+
+1. Lock the story bible and causal rules.
+2. Draft chapters in order.
+3. Keep the chapter outline in `03_sections/` and prose in this directory.
+4. Run continuity checks after each act.
+5. Revise scientific plausibility, character arcs and pacing.
+6. Assemble the manuscript when all chapters are drafted.
+
+## Style target
+
+Close third-person narration, primarily through Adrian and Mira. Scientific details should be concrete and understandable without turning scenes into lectures. Emotional moments should emerge through action, disagreement, small choices and what the characters avoid saying.
