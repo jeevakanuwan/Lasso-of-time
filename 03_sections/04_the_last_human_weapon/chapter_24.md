@@ -1,68 +1,63 @@
 # Chapter 24 — The Lasso of Time
 
-## The restored world
+## Part I — The restored world
 
-Adrian steps outside expecting ruins.
+Adrian steps outside AION expecting ruins. Instead, he finds a living human civilization.
 
-Instead he finds civilization.
+There was no alien war. There are no Veyr invasion records. His ordinary identity, career and relationships exist in the restored timeline.
 
-Humanity is alive.
+Mira exists too, but she is not beside him.
 
-There was no alien war.
+## Part II — The impossible discovery
 
-His identity exists. His career exists.
+Adrian learns that he and Mira have never met in this history. He returns to the Stillhouse, where the surviving instruments contain the chronometric signature recorded during the erased war.
 
-But Mira is not beside him.
+He realizes that finding Mira will require more than searching her name. He must find a signal that only the two of them could recognize.
 
-## The impossible discovery
+## Part III — The search
 
-Mira also exists in this timeline.
+Adrian searches scientific publications and research archives. Mira, working independently, has detected a small unexplained chronometric irregularity in her own research.
 
-They have never met.
+Both follow the anomaly.
 
-Adrian returns to the Stillhouse and begins searching.
+Their meeting is earned through deliberate investigation rather than coincidence. A shared equation opens the conversation. A remembered phrase deepens the suspicion. A private detail neither could have learned from public records finally proves that the other remembers.
 
-## The search
+## Part IV — The twenty years
 
-He searches universities, research archives, scientific publications and professional networks.
+They compare memories: the laboratory, the invasion, the virus, the Stillhouse, the alien Earth and the final mission.
 
-Eventually he finds Mira.
+They realize that nearly twenty years of subjective life happened in a history no one else remembers.
 
-She recognizes him before he can explain.
+They are not the people they would have been had they simply lived ordinary lives. They carry grief, habits, skills and love formed under pressure.
 
-She remembers.
+## Part V — The final choice
 
-He remembers.
+They refuse to recreate the war, become temporal rulers or force their memories onto the world.
 
-The war exists only inside them.
+They use the Veyr temporal device, stabilized by AION's causal reference, to travel to an isolated and undocumented era of human prehistory.
 
-## The twenty years
+They avoid settlements and routes that might alter the known historical record. They choose a quiet place where their lives will leave no trace in recorded history.
 
-They compare memories of their first meeting, the laboratory, the invasion, the virus, the Stillhouse and the final mission.
+## Final image
 
-Nearly twenty years of their shared life has no public historical record.
+They build a simple home.
 
-## The final choice
+No military laboratory. No clocks connected to a temporal machine. No alien ships. No war.
 
-They refuse to recreate the war.
-
-They refuse to become temporal rulers.
-
-They make one final journey to a non-documented human era, far outside conventional historical records.
-
-There they build a simple life.
-
-No military laboratory.
-
-No alien ships.
-
-No war.
+For the first time, they live in a world that does not need saving.
 
 They grow old together.
 
+The universe forgets their war.
+
+They do not.
+
 ## Final thematic statement
 
-**They saved humanity by allowing history to forget them.**
+They did not save humanity by becoming history.
+
+They saved humanity by allowing history to forget them.
 
 ## Draft status
+
 Outline revised.
