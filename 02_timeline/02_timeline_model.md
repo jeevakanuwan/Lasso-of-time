@@ -36,6 +36,8 @@ Mira independently notices a matching anomaly in her research. Each follows the 
 
 The final proof is a private memory that has no public record and could not be inferred from their ordinary lives.
 
+The Veyr device's Return Interlock resolves **causal compatibility**, not a guaranteed physical address. AION's signature can preserve a traveller's continuity even when the original spatial destination is erased or no longer stable. A successful reference lock may therefore return a traveller to a different stable location; this is why Mira can reach the restored history without appearing on Adrian's Stillhouse platform.
+
 ## Prehistory logic
 
 The Veyr device can navigate to a chosen temporal coordinate, while AION's stored causal reference prevents them from losing their own continuity during transit.
