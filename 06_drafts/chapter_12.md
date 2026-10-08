@@ -121,3 +121,7 @@ Adrian looked at the sealed chamber, the alien city, and the little packet of se
 “One day,” he agreed.
 
 They closed the hatch and returned to work.
+
+A minute later, the passive recorder chimed. It had logged the next synchronization pulse forty-seven seconds before the signal itself arrived.
+
+Mira read the trace twice. “Either the node is changing its own record,” she said, “or it knows what it's about to do.”
