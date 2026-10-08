@@ -34,7 +34,7 @@ The temporal network was no longer simply reporting contradictory data. It was a
 
 A warning appeared:
 
-**DISTRIBUTED CAUSAL SYNCHRONIZATION DEGRADED**
+**DISTRIBUTED CAUSAL SYNCHRONISATION DEGRADED**
 
 The Veyr researchers began emergency procedures. They redirected power to the central chamber, isolated biological hubs, and attempted to restore a single reference state across the affected nodes. Every correction required the network to agree on which version of its past was valid. The pathogen disrupted the biological timing pathway that allowed the anchors to synchronise. Each failed correction increased the disagreement.
 
