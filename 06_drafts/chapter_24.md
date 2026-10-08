@@ -176,6 +176,10 @@ She sat back. Her eyes filled, though she still looked uncertain.
 
 For the first time, she looked at him not as a stranger with an impossible theory, but as someone standing at the edge of a memory that belonged to her and did not.
 
+The equation remained the one loose thread in their account. Adrian had found it in a notebook before he could derive it; Mira had helped him use it, but neither could identify an earlier source. In the restored history, they compared every archive, draft, and instrument log they could recover. The relation was always present at the first point where Adrian remembered seeing it, and absent from every earlier record. It had no ordinary author.
+
+They did not call that proof of anything supernatural. They called it a closed causal loop: a piece of information whose path through time returned it to the place where it had begun, without a first point that either of them could identify. The equation had helped Adrian build the Stillhouse; the Stillhouse had preserved the witness who could later return the equation. The lasso had closed, but the knot was still theirs to tie deliberately.
+
 ## III. The Twenty Years
 
 They met again the next day, and the day after that.
@@ -263,6 +267,20 @@ Mira still wanted a garden and a tree that took years to bear fruit. Adrian stil
 The Veyr device could still travel through time if stabilised by AION's local causal reference. The destination had to be chosen carefully. They could not risk appearing near a settlement, a migration route, or a community that might become part of the historical record. “Undocumented” did not mean empty, and prehistory was not a blank page. It was full of lives that left few records.
 
 They selected a remote period and a location far from known archaeological sites and likely migration corridors. Their goal was not to become rulers, teachers, or mysterious figures in an ancient story. They would carry only what they needed to survive and a small set of tools. They would avoid contact with other people. If they encountered signs of a community, they would move away.
+
+Before departure, they returned to the Stillhouse and the sealed Veyr device. They had spent months rebuilding only the controls needed for one carefully bounded information transfer. The device could not promise a safe physical destination, but the notebook's location, date, and local reference were recorded in the Stillhouse archive. They calculated the phase relation together, checked it independently, then checked it a third time. No new science emerged; they were using the same boundary condition the equation described.
+
+Mira held the page against the transfer surface. “If we send it, there won't be an earlier version that explains where it came from.”
+
+“No,” Adrian said. “Only us, choosing to close the loop.”
+
+“And if we don't?”
+
+“We can't prove what happens. We only know the history we remember includes it.”
+
+They did not treat that as a command from fate. They treated it as a responsibility. The equation had already led them to AION, and AION had made the mission possible. They chose to complete the chain they had inherited, not because time demanded obedience, but because they understood the cost of leaving a causal fracture open.
+
+The device accepted their phase sequence. The relation vanished from the page in a brief wash of pale light—not the paper itself, only the ink pattern. The console logged a transfer to the recorded earlier reference. They could not observe the notebook receiving it, but the Stillhouse's surviving archive registered the expected return pulse: the loop had closed.
 
 Before departure, Mira planted the remaining seeds behind the Stillhouse. The first plants had failed in the alien soil, but the restored Earth supported them. She pressed the seeds into the ground and covered them carefully.
 
