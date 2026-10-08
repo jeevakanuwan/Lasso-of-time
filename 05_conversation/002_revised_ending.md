@@ -1,35 +1,29 @@
 # Conversation 002 — Revised Ending
 
-## New story material
+## User's story material
 
-Mira figures out the alien time-travel device and travels to a period before the alien attack on Earth. Her location remains in the sky above Earth, while humanity has no knowledge that aliens exist.
+Mira figures out the alien time-travel device.
 
-She deploys the virus.
+She travels backward to a period before the alien attack on Earth. Her location remains in the sky above Earth. Earth does not yet know aliens exist.
 
-The Veyr's warp/FTL transportation system spreads the virus through their civilization.
+She deploys the virus. The alien race's advanced warp / FTL transportation system spreads the virus throughout their civilization.
 
-Adrian sees human civilization reappear. He steps outside and discovers that the war never happened. He exists. Mira exists. They have never met.
+Adrian sees human civilization reappear. He steps out and discovers that the war never happened. He and Mira both exist in the restored world, but they have never met.
 
-Adrian returns to the Stillhouse.
+Adrian returns to the lab. After a dramatic search, they meet again and discover they both remember nearly twenty years of a war that history says never happened.
 
-After a dramatic search, Adrian and Mira meet again and discover that both remember nearly twenty years of a war that history says never happened.
+They eventually travel to a non-documented human era and live together until the end of their lives.
 
-They choose not to recreate the erased history. They travel to a non-documented human era and live together until death.
+## Clarification for scientific and causal consistency
 
-## Canon decisions
+- FTL is the transport pathway, not the pathogen itself. Infected personnel and biological cargo travel on ships.
+- The virus has a delayed, initially hard-to-detect phase so it can reach multiple systems before containment begins.
+- The Veyr's rewritten history is maintained by distributed temporal anchor nodes. The infection disables enough nodes to break synchronization.
+- When the imposed history collapses, the baseline human history returns.
+- AION protects Adrian's causal memory. Mira retains hers through her temporal transit and the Veyr device's causal lock.
+- Adrian and Mira's restored-timeline selves have never met. Their reunion is driven by matching chronometric evidence and remembered private details.
+- They choose an isolated, undocumented prehistoric era and avoid changing known historical events.
 
-- Humanity is restored.
-- The Veyr are defeated by the virus.
-- Veyr FTL/warp transport is the major transmission mechanism.
-- Earth has no knowledge of aliens when Mira deploys the virus.
-- Mira's displacement occurs above Earth.
-- Adrian and Mira both exist in the restored timeline.
-- They have never met in that timeline.
-- Their memories survive.
-- Their reunion is a major emotional climax.
-- They voluntarily leave recorded history.
-- They live together in remote human prehistory.
+## Canon
 
-## Theme
-
-**The greatest sacrifice is to save a world that will never know you saved it.**
+The previous ambiguous ending is replaced. Humanity is restored; the Veyr invasion never occurs in the active timeline; Adrian and Mira reunite and voluntarily leave documented history.
