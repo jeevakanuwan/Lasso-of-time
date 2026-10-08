@@ -1,22 +1,13 @@
 # Chapter 19 — The Boundary
 
-## Key beats
-
 - Adrian and Mira leave AION.
-- The boundary reacts violently to their causal mismatch.
-- The Causal Return Interlock begins selecting a stable temporal destination.
+- The boundary reacts to their causal mismatch.
 - Mira realizes the Veyr temporal system can be accessed from the chamber.
-- She understands that the weapon does not need to be delivered to a Veyr colony.
-- It only needs to enter the Veyr's transportation network before the invasion of Earth.
+- She understands the virus does not need to reach a Veyr colony.
+- It only needs to enter the Veyr network before the invasion of Earth.
+- Her target is the Veyr, not humanity.
 
-## Critical realization
-
-The war can be prevented without warning humanity.
-
-Mira's target is not Earth.
-
-It is the Veyr.
+**Key revelation:** the war can be prevented without warning Earth.
 
 ## Draft status
-
 Outline revised.
