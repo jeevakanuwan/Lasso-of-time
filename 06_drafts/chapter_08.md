@@ -46,7 +46,7 @@ She looked at him until he met her eyes.
 
 “Good. Then tell me what we can do.”
 
-They moved the AION concept from the notebook to the laboratory board. The design required a local reference that could be checked without relying on the external time network. A bank of atomic clocks would measure one another, while a superconducting toroidal lattice stabilized their phase relationships. A metamaterial shell would isolate the chamber from electromagnetic and mechanical interference. A speculative boundary-control system would use the Veyr phase signature as a guide—not to imitate their temporal technology, but to establish a local state that did not accept the network's rewritten sequence as authoritative.
+They moved the AION concept from the notebook to the laboratory board. The design required a local reference that could be checked without relying on the external time network. A bank of atomic clocks would measure one another, while a superconducting toroidal lattice stabilised their phase relationships. A metamaterial shell would isolate the chamber from electromagnetic and mechanical interference. A speculative boundary-control system would use the Veyr phase signature as a guide—not to imitate their temporal technology, but to establish a local state that did not accept the network's rewritten sequence as authoritative.
 
 The design was incomplete. It had more assumptions than components, and some of its central assumptions could not yet be tested. Still, it gave them a target.
 
