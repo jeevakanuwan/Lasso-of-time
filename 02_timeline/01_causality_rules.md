@@ -3,20 +3,20 @@
 1. Time travel is not ordinary transportation.
 2. The Veyr can move information and matter along controlled temporal trajectories.
 3. AION preserves a local causal reference state.
-4. AION does not preserve the outside universe; it preserves the people and information inside it.
-5. When the Veyr history collapses, AION occupants retain their memories.
-6. The Veyr temporal technology is vulnerable to biological contamination.
-7. FTL / warp travel is a major Veyr biological transmission pathway.
-8. Mira can travel backward to the pre-invasion era because she has access to the Veyr temporal system.
-9. Her location after temporal displacement is physically above Earth, not on Earth's surface.
-10. At this historical point humanity has no knowledge of extraterrestrial civilization.
-11. The Veyr infection begins before the Veyr invasion of Earth.
-12. When the Veyr causal branch collapses, human history reasserts itself.
-13. Adrian and Mira retain memories because AION preserved their causal reference state.
-14. Their ordinary timeline selves still exist.
-15. Their restored-timeline selves have never met before the final search.
-16. Memory is not automatically transferred between ordinary timeline branches; Adrian and Mira are exceptional because of AION.
-17. The protagonists should not become famous historical anomalies.
-18. Their final journey to undocumented prehistory removes them from conventional historical records.
-19. The restored universe does not need to remember the war for the war to have been causally meaningful.
+4. AION preserves observers, not the outside history.
+5. AION occupants retain memories when the external timeline changes.
+6. The Veyr temporal system can be operated by Mira after she understands its principles.
+7. Mira can reach the pre-invasion era while remaining above Earth.
+8. Earth has no knowledge of the Veyr at that point.
+9. The virus can infect Veyr biology before the invasion begins.
+10. Veyr warp/FTL transport is a major biological transmission pathway.
+11. The Veyr collapse removes the causal mechanism sustaining the human erasure.
+12. Human history reasserts itself as a self-consistent timeline.
+13. Adrian and Mira both exist in the restored timeline.
+14. Their restored-timeline selves have never met.
+15. Their memories of the erased history survive because of their AION reference state.
+16. Memory is not automatically shared by ordinary people.
+17. The protagonists must avoid becoming documented historical anomalies.
+18. Their final journey places them in a non-documented human era.
+19. The restored world does not need to remember the war for the sacrifice to have mattered.
 20. **AION preserves observers, not history.**
