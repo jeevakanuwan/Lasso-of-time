@@ -96,7 +96,7 @@ They began the fifth test with a stronger pulse. The boundary remained stable fo
 
 Adrian printed the trace and taped it to the wall.
 
-The machine had not stopped time. It had not shielded them from every possible effect. It had preserved an observer's local causal reference through an anomaly that should have destabilized it.
+The machine had not stopped time. It had not shielded them from every possible effect. It had preserved an observer's local causal reference through an anomaly that should have destabilised it.
 
 Mira stood beside him, studying the curve.
 
