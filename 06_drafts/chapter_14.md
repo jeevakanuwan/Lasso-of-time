@@ -46,7 +46,7 @@ But the samples they had gathered were only surface traces. They had not obtaine
 
 “We learn whether it is a relay, a regulator, or the anchor itself.”
 
-“And if the field destabilizes while we're outside?”
+“And if the field destabilises while we're outside?”
 
 “Then we return to the Stillhouse.”
 
