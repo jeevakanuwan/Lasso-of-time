@@ -194,13 +194,13 @@ Mira looked from the display to Adrian. “What was that?”
 
 He was already opening the event log.
 
-“Probably a synchronization fault.”
+“Probably a synchronisation fault.”
 
 “You don't sound convinced.”
 
 “I don't like conclusions before evidence.”
 
-“That's your favorite sentence.”
+“That's your favourite sentence.”
 
 “It's a good sentence.”
 
