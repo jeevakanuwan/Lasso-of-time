@@ -1,22 +1,14 @@
 # Chapter 22 — The Gift
 
-## Key beats
+Mira reaches the Veyr's modern civilization.
 
-- Mira is transported to the Veyr's modern civilization.
-- The Veyr believe they are bringing a unique temporal specimen into their scientific center.
-- Mira realizes she has already won.
-- The virus begins infecting Veyr personnel.
-- Their transportation network distributes it beyond the local system.
-- Mira deliberately avoids actions that would reveal the pathogen too early.
+The Veyr believe they have brought a unique temporal specimen into their scientific center.
 
-## Emotional core
+Mira realizes the virus is already spreading.
 
-Mira remembers Adrian.
+She understands that the aliens have transported humanity's last weapon into the heart of their civilization.
 
-She knows he may never know whether she succeeded.
-
-She chooses to trust the chain of events they created together.
+She remembers Adrian and chooses to trust the chain of events they created together.
 
 ## Draft status
-
 Outline revised.
