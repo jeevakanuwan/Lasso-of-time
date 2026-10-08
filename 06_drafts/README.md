@@ -10,7 +10,19 @@ This directory contains full prose drafts, separate from chapter planning files.
 - [Chapter 4 — The Shape of a Human Future](chapter_04.md): first prose draft complete.
 - [Chapter 5 — The First Kiss During the Sirens](chapter_05.md): first prose draft complete.
 - [Chapter 6 — The Signal from Yesterday](chapter_06.md): first prose draft complete.
-- Chapters 7–24: outline stage.
+- [Chapter 7 — The Equation That Should Not Exist](chapter_07.md): first prose draft complete.
+- [Chapter 8 — The Enemy's Clock](chapter_08.md): first prose draft complete.
+- [Chapter 9 — Building the Stillhouse](chapter_09.md): first prose draft complete.
+- [Chapter 10 — The Last Night of Earth](chapter_10.md): first prose draft complete.
+- [Chapter 11 — Causal Collapse](chapter_11.md): first prose draft complete.
+- [Chapter 12 — The World Outside the Door](chapter_12.md): first prose draft complete.
+- [Chapter 13 — The Empty Earth](chapter_13.md): first prose draft complete.
+- [Chapter 14 — Ghosts in the Laboratory](chapter_14.md): first prose draft complete.
+- [Chapter 15 — The Veyr Colony](chapter_15.md): first prose draft complete.
+- [Chapter 16 — The Virus](chapter_16.md): first prose draft complete.
+- [Chapter 17 — The Door](chapter_17.md): first prose draft complete.
+- [Chapter 18 — Two Humans Against a Universe](chapter_18.md): first prose draft complete.
+- Chapters 19–24: outline stage.
 
 ## Drafting workflow
 
