@@ -108,7 +108,7 @@ She sat beside him.
 
 She looked at the phase signature on the screen. “The network is holding the history together.”
 
-“If we can disrupt its synchronization, perhaps the imposed branch won't remain stable.”
+“If we can disrupt its synchronisation, perhaps the imposed branch won't remain stable.”
 
 “Perhaps.”
 
