@@ -28,7 +28,7 @@ Mira leaned close. “Could someone have added it before the scan?”
 
 “That's the first explanation I tested.”
 
-She read the relation carefully. “I recognize the phase term. It's in the navigation reconstruction.”
+She read the relation carefully. “I recognise the phase term. It's in the navigation reconstruction.”
 
 “The same term appears in the laboratory reset. I thought it was a translation artifact.”
 
@@ -66,7 +66,7 @@ Adrian enlarged the earliest divergence the model could resolve. It was not a ba
 
 “They're targeting a causal basin,” he said. “Not a single ancestor or date. They want to alter enough upstream conditions that our emergence becomes statistically unreachable.”
 
-Mira's expression hardened. “Then every conventional defense is irrelevant.”
+Mira's expression hardened. “Then every conventional defence is irrelevant.”
 
 “Almost every one.”
 
