@@ -304,7 +304,7 @@ He looked at her a second longer than he meant to.
 
 “Too late,” he said.
 
-The next impact shook dust from the ceiling. Neither of them heard the other alarms begin.
+The next impact shook dust from the ceiling. Neither noticed when the other alarms began.
 
 Adrian had found something the Veyr might not understand.
 
