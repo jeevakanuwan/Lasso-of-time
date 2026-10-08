@@ -28,14 +28,20 @@ The first human voice he hears is an ordinary weather presenter, followed by rou
 
 A remote river valley beneath a ridge, with rain and suitable soil for planting. They avoid known settlements, routes, and archaeological sites and do not try to influence other communities.
 
+## Resolved: The Veyr's fate
+
+The baseline human civilization returns and continues. The Veyr civilization also survives in the restored baseline history, but LANTERN causes heavy casualties across its biological and temporal infrastructure. The collapse destroys the Veyr's imposed anti-human history, not every Veyr everywhere. Survivors remain possible; the story must not imply universal extermination. Because Mira deploys LANTERN before the invasion, the outbreak is part of the restored history too.
+
+## Resolved: The bootstrap equation
+
+The equation in Adrian's notebook is a deliberate closed causal loop. Adrian uses it to derive AION; Mira carries its implications into the mission; after reunion, Adrian and Mira use the Veyr device to send the equation back to the precise earlier point at which it appeared in his notebook. The loop has no independent first author. Its payoff is both practical—the boundary condition helps explain the failure of the imposed timeline—and thematic: time has lassoed their discovery back to its own beginning. The characters recognise the paradox rather than pretending it has a conventional origin.
+
 ## Remaining author decisions
 
-1. **The Veyr's ultimate fate:** Does the outbreak destroy the civilization in the imposed branch only, or does it also alter the baseline history? The current causal model most naturally supports collapse of the imposed temporal operation and restoration of the baseline history.
-2. **The bootstrap equation:** The equation appears in Adrian's notebook before he derives it. Decide whether it is an intentional closed causal loop and provide a payoff, or preserve it as an explicitly unresolved mystery.
-3. **AION's acronym:** The technical note now defines “Observer Nullification” as nullifying the external network's authority over the observer's reference state, not erasing the observer.
+1. **AION's acronym:** The technical note now defines “Observer Nullification” as nullifying the external network's authority over the observer's reference state, not erasing the observer.
 4. **The nearly twenty-year war:** The duration is now consistent, but the prose shows selected episodes. Add a few references to the characters' earlier shared history only if readers need more sense of scale.
 5. **Chapter 12 hook:** A concrete early-arriving pulse was added to lead into the anchor/biology investigation.
 
 ## Final continuity rule
 
-The ending should preserve the core principle: **AION preserves observers, not history.** The travellers retain their subjective continuity, but the restored world has no public memory of the war.
+The ending should preserve the core principle: **AION preserves observers, not history.** The travellers retain their subjective continuity, but the restored world has no public memory of the war. The Veyr survive with heavy casualties, and the equation's closed loop is intentionally resolved without a first origin.
