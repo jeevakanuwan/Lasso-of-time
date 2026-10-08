@@ -4,7 +4,7 @@ The clocks agreed for six hours.
 
 Adrian considered that a kind of progress.
 
-At 19:40, the surface command network lost contact with the western defence corridor. At 20:05, the emergency generator took over the laboratory's power bus. At 21:12, a message arrived from the capital ordering all research teams to prioritize immediate military applications. At 22:00, Mira brought Adrian a cup of coffee that smelled like burnt wiring and told him he had been staring at the same eleven microseconds for so long that the screen would soon file a complaint.
+At 19:40, the surface command network lost contact with the western defence corridor. At 20:05, the emergency generator took over the laboratory's power bus. At 21:12, a message arrived from the capital ordering all research teams to prioritise immediate military applications. At 22:00, Mira brought Adrian a cup of coffee that smelled like burnt wiring and told him he had been staring at the same eleven microseconds for so long that the screen would soon file a complaint.
 
 He had not moved the event log to the central server. He had not connected the specimen instruments to the facility network. He had, however, copied the data to three isolated drives and run the same analysis through four independent timing models.
 
