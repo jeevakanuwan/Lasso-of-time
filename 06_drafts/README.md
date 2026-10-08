@@ -6,7 +6,11 @@ This directory contains full prose drafts, separate from chapter planning files.
 
 - [Chapter 1 — The Sky Was Already Occupied](chapter_01.md): first prose draft complete.
 - [Chapter 2 — The Laboratory at the Edge of the War](chapter_02.md): first prose draft complete.
-- Chapters 3–24: outline stage.
+- [Chapter 3 — Two Ways to Kill an Alien](chapter_03.md): first prose draft complete.
+- [Chapter 4 — The Shape of a Human Future](chapter_04.md): first prose draft complete.
+- [Chapter 5 — The First Kiss During the Sirens](chapter_05.md): first prose draft complete.
+- [Chapter 6 — The Signal from Yesterday](chapter_06.md): first prose draft complete.
+- Chapters 7–24: outline stage.
 
 ## Drafting workflow
 
