@@ -1,32 +1,39 @@
 # Story Overview
 
 ## Working title
+
 **The Lasso of Time**
 
+## Genre
+
+Hard-ish science fiction / military science fiction / temporal thriller / tragic romance.
+
 ## Core premise
-Humanity is fighting the Veyr, an extraterrestrial civilization. Young scientists **Dr. Adrian Sen** and **Dr. Mira Vale** fall in love while developing a virus against the invaders.
 
-The Veyr discover temporal manipulation and attempt to erase humanity before the war begins. Adrian builds the **AION — Acausal Isolation and Observer Nullification**, the **Stillhouse**, which preserves its occupants as a locally self-consistent causal frame while the outside timeline changes.
+Humanity is losing a war against the Veyr, an extraterrestrial civilization. Two young scientists, **Dr. Adrian Sen** and **Dr. Mira Vale**, fall in love while developing a virus that exploits a Veyr biological vulnerability.
 
-The Veyr succeed. Outside, humanity disappears and Earth becomes a Veyr colony.
+The Veyr attempt to erase humanity by imposing a new history through a distributed temporal anchor network. Adrian builds the **AION — Acausal Isolation and Observer Nullification** chamber, nicknamed the **Stillhouse**, which preserves its occupants' causal reference state while the external timeline is rewritten.
 
-Mira later learns to operate the Veyr temporal device. She travels to a time before the invasion, above an Earth that has no knowledge of aliens, and deploys the virus. The Veyr's own warp/FTL transportation network spreads it throughout their civilization.
+When humanity disappears from history, Adrian and Mira survive inside the Stillhouse. Mira eventually learns to operate the Veyr temporal device. She travels to a period before the invasion, deploys the virus from above Earth, and is captured by the Veyr. Their own FTL logistics network unknowingly carries infected personnel and biological cargo between worlds.
 
-The Veyr collapse and the human timeline reasserts itself.
+The infection disables the distributed temporal anchors that sustain the Veyr's imposed history. That history collapses, and humanity's baseline timeline returns: the invasion never happened.
 
-Adrian emerges to find a normal human civilization in which the war never happened. He exists. Mira exists. They have never met.
+Adrian steps outside and finds a living human civilization. His ordinary self exists, as does Mira's, but they have never met. The two war survivors must find one another in a world that has no memory of their shared life.
 
-He returns to the Stillhouse and begins searching for her.
+They eventually reunite, discover they both remember almost twenty years of a war no one else remembers, and choose to leave documented history behind. Using the Veyr temporal device stabilized by AION's causal reference, they travel to an isolated, undocumented era of human prehistory and live together until the end.
 
-Eventually they meet and discover that both retain memories of nearly twenty years of a war that history says never occurred.
+## Central dramatic question
 
-Rather than recreate the erased history, they make one final temporal journey to a non-documented human era and live together until the end of their lives.
+If history forgets your greatest sacrifice, does that sacrifice become meaningless?
 
-## Central question
-If history forgets your greatest sacrifice, does it become meaningless?
+## Final answer
 
-## Answer
-No. The universe can forget an event while its survivors remember its meaning.
+No. The universe remembers through consequences, even when people do not. Adrian and Mira's relationship survives not because history preserves it, but because they do.
 
 ## Ending principle
-Humanity receives an ordinary future. Adrian and Mira receive each other. Their war becomes a secret carried by two people who know it happened.
+
+The ending is bittersweet and intimate. Humanity gets its ordinary future. Adrian and Mira get each other. Their war becomes a secret carried by two people who know it happened.
+
+## Continuity principle
+
+The FTL network is a **transport pathway**, not a magical infection beam. The virus travels inside Veyr personnel and biological cargo. The temporal rewrite is maintained by a distributed network; the outbreak disables that network, allowing the baseline history to return.
