@@ -42,6 +42,8 @@ The system had been designed to make history consistent.
 
 It had no stable procedure for choosing between two incompatible histories when its own reference network was failing.
 
+Adrian's equation had described this threshold without naming it. The boundary term did not tell them how to destroy the network; it described the point at which two histories could no longer share a valid reference. LANTERN was pushing the Veyr's living synchronizers beyond that limit, one ordinary biological failure at a time. The equation had given Adrian the idea for AION, and now its logic explained why the Veyr's imposed history could no longer hold. The pathogen was not erasing the Veyr. It was making their machinery unable to insist that only one history was real.
+
 Mira pressed her hand against the observation window. The central chamber's pulse stuttered. A membrane brightened, dimmed, and brightened again. The Veyr researchers moved between consoles, their signals overlapping in a confusion the translator could not render as words.
 
 She thought of Adrian's equations. The network had not been destroyed by a single blow. It was losing the ability to maintain the imposed branch as a coherent solution. The baseline history was still present as a causal possibility, held in the residual reference structure that AION had preserved and the Veyr device had carried into the past.
