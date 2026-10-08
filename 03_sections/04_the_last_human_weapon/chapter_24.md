@@ -1,10 +1,8 @@
 # Chapter 24 — The Lasso of Time
 
-## Part I — The restored world
+## The restored world
 
-Adrian steps outside.
-
-He expects ruins.
+Adrian steps outside expecting ruins.
 
 Instead he finds civilization.
 
@@ -12,100 +10,59 @@ Humanity is alive.
 
 There was no alien war.
 
-There are no Veyr invasion records.
-
-His own identity exists.
-
-His career exists.
+His identity exists. His career exists.
 
 But Mira is not beside him.
 
-## Part II — The impossible discovery
+## The impossible discovery
 
-Adrian learns that he and Mira exist independently in this timeline.
+Mira also exists in this timeline.
 
 They have never met.
 
-He returns to AION.
+Adrian returns to the Stillhouse and begins searching.
 
-He realizes the hardest mission is no longer saving humanity.
+## The search
 
-It is finding one person in a universe that says they were never together.
-
-## Part III — The search
-
-Adrian searches universities, research archives, scientific publications and professional networks.
-
-He follows fragments of information that feel familiar.
+He searches universities, research archives, scientific publications and professional networks.
 
 Eventually he finds Mira.
 
-She recognizes him before he explains why.
+She recognizes him before he can explain.
 
 She remembers.
 
-They both remember.
+He remembers.
 
 The war exists only inside them.
 
-## Part IV — The twenty years
+## The twenty years
 
-They compare memories.
+They compare memories of their first meeting, the laboratory, the invasion, the virus, the Stillhouse and the final mission.
 
-The first meeting.
+Nearly twenty years of their shared life has no public historical record.
 
-The laboratory.
-
-The virus.
-
-The invasion.
-
-The Stillhouse.
-
-The lost Earth.
-
-The final mission.
-
-They realize that nearly twenty years of their lives happened in a history that no one else remembers.
-
-## Part V — The final choice
+## The final choice
 
 They refuse to recreate the war.
 
 They refuse to become temporal rulers.
 
-They refuse to alter ordinary human history.
+They make one final journey to a non-documented human era, far outside conventional historical records.
 
-Instead, they make one final journey.
-
-They travel to a non-documented human era, far outside conventional historical records.
-
-## Final image
-
-They build a simple home.
+There they build a simple life.
 
 No military laboratory.
-
-No clocks connected to a temporal machine.
 
 No alien ships.
 
 No war.
 
-For the first time, they live in a world that does not need saving.
-
 They grow old together.
-
-The universe forgets their war.
-
-They do not.
 
 ## Final thematic statement
 
-They did not save humanity by becoming history.
-
-They saved humanity by allowing history to forget them.
+**They saved humanity by allowing history to forget them.**
 
 ## Draft status
-
 Outline revised.
