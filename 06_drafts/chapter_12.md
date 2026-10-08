@@ -46,7 +46,7 @@ They found the first living Veyr at a transit junction. It was taller than the c
 
 Mira recorded the interaction through a passive optical lens.
 
-The Veyr did not appear to be monitoring for human life. There were no patrols sweeping the area, no search lights, no visible security perimeter around the old campus. The Stillhouse had not registered as an enemy installation. It was simply an unrecognized space within a city that had no reason to expect humans.
+The Veyr did not appear to be monitoring for human life. There were no patrols sweeping the area, no search lights, no visible security perimeter around the old campus. The Stillhouse had not registered as an enemy installation. It was simply an unrecognised space within a city that had no reason to expect humans.
 
 That could change.
 
