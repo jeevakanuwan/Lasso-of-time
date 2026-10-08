@@ -28,7 +28,7 @@ Mira stepped down from the platform. “I want to be here too.”
 
 He wanted to tell her not to go. He wanted to dismantle the device, seal the capsule, and find another route that did not require one of them to step through a machine they barely understood. But the Stillhouse had one viable external mission left, the anchor network was holding the rewritten history together, and the only plausible way to restore the original timeline was to introduce LANTERN before the Veyr operation began.
 
-The virus could not be deployed into the present and expected to undo the past. It had to reach the Veyr civilization before their temporal attack on Earth. The pathogen would travel inside infected Veyr carriers, then spread through the FTL logistics network as crews and biological cargo moved between systems. If the synchronization dependency was as central as their evidence suggested, the outbreak could destabilize the distributed anchors before the rewritten history became self-sustaining.
+The virus could not be deployed into the present and expected to undo the past. It had to reach the Veyr civilization before their temporal attack on Earth. The pathogen would travel inside infected Veyr carriers, then spread through the FTL logistics network as crews and biological cargo moved between systems. If the synchronisation dependency was as central as their evidence suggested, the outbreak could destabilise the distributed anchors before the rewritten history became self-sustaining.
 
 Could. Not would.
 
