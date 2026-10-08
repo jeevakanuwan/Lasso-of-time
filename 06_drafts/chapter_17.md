@@ -110,7 +110,7 @@ He pressed his forehead to hers. For a moment, neither moved.
 
 Then Mira stepped onto the platform.
 
-The ring began to rotate. The control surface recognized the biological reference pattern and opened a narrow window through the local causal boundary. The chamber clocks registered the field's formation. The Stillhouse's passive record started a new line.
+The ring began to rotate. The control surface recognised the biological reference pattern and opened a narrow window through the local causal boundary. The chamber clocks registered the field's formation. The Stillhouse's passive record started a new line.
 
 Adrian stood at the console, one hand on the manual override.
 
