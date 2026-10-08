@@ -50,7 +50,7 @@ She looked at him, angry and exhausted. “You always want to make the smallest 
 
 “Because it's the thing we have.”
 
-The words hurt because they were true. The Stillhouse had preserved them, not the world. It had kept a record of the original history, not a way to prove that history to anyone outside the chamber. They could not show the Veyr an archive and expect it to overturn the world. They could not ask a court to recognize crimes that had no victims in the current causal sequence.
+The words hurt because they were true. The Stillhouse had preserved them, not the world. It had kept a record of the original history, not a way to prove that history to anyone outside the chamber. They could not show the Veyr an archive and expect it to overturn the world. They could not ask a court to recognise crimes that had no victims in the current causal sequence.
 
 They could only act.
 
