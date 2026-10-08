@@ -306,6 +306,6 @@ He looked at her a second longer than he meant to.
 
 The next impact shook dust from the ceiling. Neither of them heard the other alarms begin.
 
-For the first time since the invasion, Adrian had found something the Veyr might not understand.
+Adrian had found something the Veyr might not understand.
 
-For the first time since the invasion, Mira was afraid that understanding it might be worse.
+Mira was afraid that understanding it might be worse.
