@@ -6,7 +6,7 @@ Adrian said it sounded like a project that would eventually be renamed by a comm
 
 The work took nine days.
 
-She built the candidate from the biological evidence they had gathered: the original Veyr tissue data preserved inside AION, the current colony sample, and the timing response measured at the central node. The design depended on a combination of Veyr-specific molecular recognition and a disruption pathway that would not activate in ordinary terrestrial cells. It was not intended to destroy every cell it encountered. Its intended effect was to interfere with the Veyr's synchronized repair and signalling system, leaving the organism increasingly unable to coordinate the processes on which its advanced biology depended.
+She built the candidate from the biological evidence they had gathered: the original Veyr tissue data preserved inside AION, the current colony sample, and the timing response measured at the central node. The design depended on a combination of Veyr-specific molecular recognition and a disruption pathway that would not activate in ordinary terrestrial cells. It was not intended to destroy every cell it encountered. Its intended effect was to interfere with the Veyr's synchronised repair and signalling system, leaving the organism increasingly unable to coordinate the processes on which its advanced biology depended.
 
 The candidate remained a model until the final day. Mira tested its predicted binding against both sets of Veyr data, then tested the model against a library of human molecular structures. It showed no obvious route to binding human cells, but the library was incomplete and the model could not prove universal safety. She recorded the uncertainty in the first line of the report.
 
