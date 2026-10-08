@@ -23,13 +23,13 @@ The connected GitHub toolset did not expose a way to spawn autonomous agents in 
 - Chapter 23: clarified that the Return Interlock identifies a causal reference, not a guaranteed physical location.
 - Chapter 24: explained how Mira returns to the restored history away from AION and independently follows the phase anomaly to Adrian.
 
-## Open items requiring a deliberate authorial choice
+## Author decisions resolved
 
 ### 1. The Veyr's ultimate fate
-Does the outbreak destroy the Veyr civilization in the imposed branch only, or does it also alter the baseline history? The current causal model most naturally supports collapse of the imposed temporal operation and restoration of the baseline history, not universal extermination. Keep the moral stakes clear.
+The baseline human civilization returns. The Veyr civilization also continues in the restored baseline history, but LANTERN causes heavy casualties. The imposed anti-human branch collapses; the Veyr species is not universally erased. Because Mira deploys the pathogen before the invasion, the outbreak and its casualties remain part of baseline history.
 
 ### 2. The equation that appears before Adrian derives it
-This is a potentially excellent bootstrap loop and a strong connection to the title. It needs a payoff in the final act or a clear statement in the continuity notes that the loop is intentionally unresolved.
+The equation is a deliberate closed causal loop. After their reunion, Adrian and Mira use the Veyr device to send the equation back to the earlier point at which it appeared in Adrian's notebook. It has no independent first author. The loop pays off the title *The Lasso of Time* and gives the equation a practical role in understanding AION's boundary condition and the Veyr network's failure.
 
 ### 3. Nearly twenty years of war
 The war's duration is now consistent, but only selected episodes are dramatized. Keep this as a long war already underway at Chapter 1, or add a few carefully placed references to earlier shared history. Do not insert a large new time jump into the already compressed AION/virus sequence without revisiting supplies and character aging.
@@ -51,4 +51,4 @@ The chapter's ending is quieter than the other chapters. Add one concrete anomal
 
 ## Current assessment
 
-The manuscript has a clear emotional spine, a strong recurring motif system, and an ending that honours the central sacrifice. The biggest remaining risks are continuity at the time-travel boundary, the causal status of the Veyr's fate, the unresolved bootstrap equation, and repeated rhetorical patterns—not the premise or the ending itself.
+The manuscript has a clear emotional spine, a strong recurring motif system, and an ending that honours the central sacrifice. The biggest remaining risks are continuity at the time-travel boundary, the need to preserve uncertainty around the speculative science, and repeated rhetorical patterns—not the premise or the ending itself.
