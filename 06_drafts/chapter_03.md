@@ -50,7 +50,7 @@ Adrian studied the diagram again. “If this signalling architecture is real, it
 
 “Or their equipment could affect the pathogen. We have to test both directions.”
 
-He looked at the casualty figures on the screen. The invasion had begun less than a year ago, but the official estimates had already become ranges so broad that they seemed designed to hide the fact that anyone was counting. Cities had been evacuated, ports abandoned, and entire regions cut off from reliable communications. The Veyr did not need to occupy every place. They only needed to make resistance expensive enough that people stopped coordinating it.
+He looked at the casualty figures on the screen. The invasion had begun nearly twenty years ago, but the official estimates had already become ranges so broad that they seemed designed to hide the fact that anyone was counting. Cities had been evacuated, ports abandoned, and entire regions cut off from reliable communications. The Veyr did not need to occupy every place. They only needed to make resistance expensive enough that people stopped coordinating it.
 
 “Command will ask for a schedule,” he said.
 
