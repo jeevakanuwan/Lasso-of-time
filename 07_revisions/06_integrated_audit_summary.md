@@ -40,14 +40,12 @@ Clarify “Observer Nullification” as nullification of external authority over
 ### 5. Chapter 12 hook
 The chapter's ending is quieter than the other chapters. Add one concrete anomaly at the end to create forward momentum into the biological/anchor investigation.
 
-## Recommended revision order
+## Recommended next review pass
 
-1. Resolve the Veyr-fate and bootstrap-equation decisions.
-2. Update the AION technical note and timeline model with the same causal rules used in Chapters 23–24.
-3. Strengthen Chapter 12's final beat and consider a more concrete Chapter 13 hook.
-4. Conduct a line-level copyedit in British English after structural choices are locked.
-5. Re-read Chapters 23–24 together for emotional pacing and trim repeated explanation.
-6. Re-check all 24 chapter endings after revisions.
+1. Conduct a line-level copyedit in British English after structural choices are locked.
+2. Re-read Chapters 23–24 together for emotional pacing and trim repeated explanation, especially where the restored-history logic is explained more than once.
+3. Re-check all 24 chapter endings for hook strength and repeated rhetorical patterns.
+4. During that pass, preserve the distinction between the restored human baseline and the Veyr casualties caused by LANTERN.
 
 ## Current assessment
 
