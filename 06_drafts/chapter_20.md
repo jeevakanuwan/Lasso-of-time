@@ -44,7 +44,7 @@ Mira froze.
 
 A sensor array had detected her arrival. The temporal device's field collapsed behind her, leaving the suit's emergency systems to maintain pressure. She had no time to return to Earth, and no energy to make another jump. The vessel's internal alarm began to pulse through the hull.
 
-She attached the sample capsule to the service module's biological transfer port. The port recognized the container as an unclassified input. A mechanical seal opened. Mira transferred the prepared sample into the module's sterile reservoir and initiated the containment sequence. The transfer took four seconds.
+She attached the sample capsule to the service module's biological transfer port. The port recognised the container as an unclassified input. A mechanical seal opened. Mira transferred the prepared sample into the module's sterile reservoir and initiated the containment sequence. The transfer took four seconds.
 
 The alarm changed pitch.
 
