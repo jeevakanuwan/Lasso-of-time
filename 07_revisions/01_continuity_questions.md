@@ -36,11 +36,10 @@ The baseline human civilization returns and continues. The Veyr civilization als
 
 The equation in Adrian's notebook is a deliberate closed causal loop. Adrian uses it to derive AION; Mira carries its implications into the mission; after reunion, Adrian and Mira use the Veyr device to send the equation back to the precise earlier point at which it appeared in his notebook. The loop has no independent first author. Its payoff is both practical—the boundary condition helps explain the failure of the imposed timeline—and thematic: time has lassoed their discovery back to its own beginning. The characters recognise the paradox rather than pretending it has a conventional origin.
 
-## Remaining author decisions
+## Remaining review notes
 
-1. **AION's acronym:** The technical note now defines “Observer Nullification” as nullifying the external network's authority over the observer's reference state, not erasing the observer.
-4. **The nearly twenty-year war:** The duration is now consistent, but the prose shows selected episodes. Add a few references to the characters' earlier shared history only if readers need more sense of scale.
-5. **Chapter 12 hook:** A concrete early-arriving pulse was added to lead into the anchor/biology investigation.
+- **The nearly twenty-year war:** The duration is consistent, but the prose shows selected episodes. Add references to earlier shared history only if readers need more scale; avoid a new large time jump in the compressed AION/LANTERN sequence.
+- **Chapter hooks:** Chapter 12 now ends on a concrete early-arriving pulse. During the final line edit, consider whether Chapter 13 needs a more concrete hook without adding explanatory exposition.
 
 ## Final continuity rule
 
