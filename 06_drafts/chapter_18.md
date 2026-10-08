@@ -40,7 +40,7 @@ At 22:00, he played the last recording Mira had left behind. It was not a messag
 
 He listened twice.
 
-Then he returned to the control console and began modeling the restoration problem. If the network failed, the imposed history might collapse toward the last stable causal branch. AION's record could identify the original branch, but it could not force the universe to select it. The restoration would depend on whether the Veyr's anchor network had overwritten history or merely stabilized a competing solution.
+Then he returned to the control console and began modelling the restoration problem. If the network failed, the imposed history might collapse toward the last stable causal branch. AION's record could identify the original branch, but it could not force the universe to select it. The restoration would depend on whether the Veyr's anchor network had overwritten history or merely stabilised a competing solution.
 
 Adrian could not resolve the question from the chamber.
 
