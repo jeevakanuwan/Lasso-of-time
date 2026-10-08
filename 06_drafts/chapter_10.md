@@ -8,7 +8,7 @@ At 21:17, the command network reported that three Veyr platforms had aligned abo
 
 At 21:22, every satellite navigation system in the region lost synchronization.
 
-At 21:31, the national emergency broadcast played a message that had been recorded in a voice Adrian recognized as the president's. The message ordered the population to evacuate inland. Eleven minutes later, the same broadcast played a different version in which the president said there had been no evacuation order.
+At 21:31, the national emergency broadcast played a message that had been recorded in a voice Adrian recognised as the president's. The message ordered the population to evacuate inland. Eleven minutes later, the same broadcast played a different version in which the president said there had been no evacuation order.
 
 Mira stood at the console, watching the two recordings' metadata.
 
@@ -70,7 +70,7 @@ Adrian watched the boundary trace climb and settle. Mira checked the life-suppor
 
 Outside, the facility's passive sensors began returning impossible data. The campus was still there, then not there, then a structure with no human power signature. The surface temperature changed in jumps that no weather pattern could explain. A city map on the offline display revised itself, replacing roads with unfamiliar transport corridors.
 
-Adrian opened the external camera feed. It showed the campus entrance under a sky lit by three pale bands of light. The image fragmented. For one frame, the entrance was occupied by soldiers. For the next, it was a Veyr structure built from dark ribs and smooth panels. The image stabilized on the Veyr structure.
+Adrian opened the external camera feed. It showed the campus entrance under a sky lit by three pale bands of light. The image fragmented. For one frame, the entrance was occupied by soldiers. For the next, it was a Veyr structure built from dark ribs and smooth panels. The image stabilised on the Veyr structure.
 
 Mira's hand found his.
 
@@ -104,7 +104,7 @@ The external camera showed the sky darkening, though the chamber's light sensors
 
 At 23:41, the lab's external power disappeared.
 
-AION switched to internal reserves. The toroid warmed by half a degree and stabilized. The passive reference record continued.
+AION switched to internal reserves. The toroid warmed by half a degree and stabilised. The passive reference record continued.
 
 At 23:53, the surface sensors detected a new atmosphere over the campus. Its composition was breathable by Veyr standards and dangerous to humans over long exposure. The revised environmental archive claimed it had always been this way.
 
@@ -140,7 +140,7 @@ For one terrible second, the display showed two versions of the same timestamp. 
 
 AION remained.
 
-At 00:14, the transition completed—or seemed to. The external sensors stopped flickering. The camera feed stabilized. The old campus had disappeared beneath the Veyr structure. The city beyond it had become a dark, unfamiliar landscape crossed by lines of cold light.
+At 00:14, the transition completed—or seemed to. The external sensors stopped flickering. The camera feed stabilised. The old campus had disappeared beneath the Veyr structure. The city beyond it had become a dark, unfamiliar landscape crossed by lines of cold light.
 
 Adrian checked the passive record. The original timeline remained inside the chamber, preserved in the clock relationships and the written logs. The world outside now described a different history.
 
