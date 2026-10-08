@@ -1,43 +1,99 @@
 # Master Timeline
 
-## Original war history
-- **T-12 years:** first unexplained observations.
-- **T-10 years:** Veyr first contact.
-- **T-10 to T-1:** human-Veyr war.
-- Adrian and Mira meet, fall in love and develop the virus.
-- The Veyr develop temporal warfare.
-- Adrian builds AION.
-- The Veyr rewrite Earth's history.
-- Adrian and Mira survive inside the Stillhouse.
-- Earth becomes a Veyr colony.
+## A — The erased war history
 
-## Restored-history intervention
-- Mira learns the Veyr temporal technology.
-- She travels to a period long before the invasion.
-- She remains physically above Earth.
-- Humanity has no knowledge of extraterrestrial life.
-- Mira deploys the virus into the Veyr operational environment.
-- Veyr warp/FTL transport spreads infection through ships, colonies and biological logistics.
-- The Veyr civilization collapses.
-- The altered causal history can no longer sustain the human erasure.
-- Human civilization reasserts itself.
+### Approximately ten years before the temporal attack — First contact
 
-## After restoration
-- Adrian emerges from AION.
-- The war never happened.
-- Adrian exists as an ordinary member of this timeline.
-- Mira also exists.
-- Their restored-timeline selves have never met.
-- Adrian returns to the Stillhouse.
-- He searches for Mira.
-- They eventually meet.
-- Both remember the erased war.
-- They realize nearly twenty years of their shared life exists only in their memories.
-- They use temporal technology one final time.
-- They travel to a non-documented human era.
-- They live together until death.
+The Veyr arrive openly. Humanity begins a war it cannot win conventionally.
+
+### War years 1–8 — The scientific race
+
+Adrian and Mira meet through the international war-science program. Their work on temporal physics and Veyr biology converges. They fall in love while developing the virus.
+
+### Final war year — AION
+
+Adrian discovers evidence of the Veyr temporal attack and builds AION, the Stillhouse.
+
+### Temporal attack
+
+The Veyr use a distributed temporal anchor network to impose a history in which humanity never develops into a civilization capable of opposing them.
+
+Adrian and Mira enter AION.
+
+### The rewritten present
+
+Outside AION, humanity is absent and Earth is a Veyr colony. Adrian and Mira experience subjective time while planning a countermeasure.
+
+---
+
+## B — Mira's intervention
+
+### Before human first contact
+
+Mira learns to operate the Veyr temporal device and travels to a period long before the Veyr invasion of Earth.
+
+Her deployment point is in the sky above Earth. Human civilization is unaware of extraterrestrial life.
+
+### Virus deployment
+
+Mira releases the species-specific viral agent into the Veyr operational environment. The virus has a delayed, initially hard-to-detect phase.
+
+### FTL spread
+
+Infected Veyr personnel and biological cargo move between ships, stations and colonies through the Veyr's FTL network. The warp technology is not itself the carrier; it makes the logistics network fast and interstellar.
+
+### Failure of the temporal anchors
+
+The virus reaches the Veyr personnel and biological systems that maintain the distributed temporal network. Anchor nodes fall out of synchronization. The imposed anti-human history can no longer be maintained.
+
+### Baseline history returns
+
+The universe settles into the last stable baseline history that does not rely on the Veyr's temporal intervention: humanity develops normally and the invasion never happens.
+
+---
+
+## C — The restored history
+
+### Adrian emerges
+
+AION registers the collapse of the imposed history. Adrian steps outside and finds a living human world.
+
+His ordinary life exists in this history. His wartime memories do not belong to that world's public record.
+
+### The search
+
+Adrian finds evidence of Mira's independent scientific career and follows a technical clue: a subtle chronometric anomaly in her published work that matches the signature AION recorded during the war.
+
+Mira has independently detected the same unexplained signature in her own research. Each begins investigating an anomaly neither can explain.
+
+### Reunion
+
+They meet after deliberate investigation, not coincidence. Recognition is gradual: a shared phrase, an equation, a remembered detail, and finally a private memory that neither could have learned from public records.
+
+They discover they both remember the erased war and the nearly twenty years of subjective experience it contained.
+
+### The final journey
+
+They use the Veyr temporal device, stabilized by AION's causal reference, to travel to an isolated, undocumented era of human prehistory.
+
+They deliberately avoid settlements and routes that could affect the known historical record. They live together until the end of their lives.
+
+---
 
 ## Causal interpretation
-The Veyr create the conditions of their own defeat by trying to erase humanity. AION preserves the witnesses, Mira carries the weapon into the Veyr's pre-invasion era, and the Veyr's own FTL network distributes the pathogen.
 
-The loop closes without making Adrian or Mira famous historical figures.
+The story's central mechanism is an unstable imposed history:
+
+1. The Veyr fear humanity.
+2. They use a distributed temporal network to impose a history in which humanity never threatens them.
+3. AION protects Adrian and Mira from the rewrite.
+4. Mira uses the Veyr device to travel before the invasion.
+5. The virus spreads through Veyr bodies and biological cargo carried by FTL ships.
+6. The infection disables the distributed temporal anchors.
+7. The imposed history loses its stabilizing mechanism.
+8. The baseline human history reasserts itself.
+9. Adrian and Mira remain as memory-bearing exceptions.
+10. They find one another in the restored world.
+11. They leave recorded history voluntarily.
+
+The loop closes without making the protagonists famous historical figures.
