@@ -5,7 +5,8 @@ This directory contains full prose drafts, separate from chapter planning files.
 ## Current status
 
 - [Chapter 1 — The Sky Was Already Occupied](chapter_01.md): first prose draft complete.
-- Chapters 2–24: outline stage.
+- [Chapter 2 — The Laboratory at the Edge of the War](chapter_02.md): first prose draft complete.
+- Chapters 3–24: outline stage.
 
 ## Drafting workflow
 
