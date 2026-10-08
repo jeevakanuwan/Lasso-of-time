@@ -92,7 +92,7 @@ He reached for the screen, then stopped himself.
 
 Mira's voice was quiet. “No. It's changing what the evidence says happened.”
 
-They watched the facility's records become unrecognizable. The research campus was no longer listed as a human institution. Its founding date changed. The underground laboratory appeared in the revised archive as a Veyr observation station established decades earlier. The names of the scientists assigned to the project disappeared one by one.
+They watched the facility's records become unrecognisable. The research campus was no longer listed as a human institution. Its founding date changed. The underground laboratory appeared in the revised archive as a Veyr observation station established decades earlier. The names of the scientists assigned to the project disappeared one by one.
 
 Adrian found his own name in the personnel database. It belonged to no one. The record displayed a different sequence of characters, then settled on a Veyr designation.
 
