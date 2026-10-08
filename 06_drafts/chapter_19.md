@@ -68,7 +68,7 @@ Mira's breath caught.
 
 For the first time since the rewrite, Earth looked like a world that had not been claimed by anyone.
 
-The suit's clock resolved the destination date within a narrow range. It was before the first Veyr arrival in the original timeline. She checked the range against Adrian's target interval. The result fell inside it.
+The suit's clock resolved the destination date within a narrow range. It was before the first recorded hostile arrival at Earth in the original timeline. She checked the range against Adrian's target interval. The result fell inside it.
 
 The mission had reached the right era.
 
@@ -86,4 +86,4 @@ Mira checked the deployment plan.
 
 The target was not the planet beneath her.
 
-It was the civilization that had not yet arrived.
+It was the civilization that had not yet revealed itself to Earth.
