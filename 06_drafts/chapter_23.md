@@ -2,15 +2,15 @@
 
 The first anchor failed without an explosion.
 
-A Veyr maintenance team reported that a relay node had missed a synchronization pulse. The node corrected itself on the next cycle. The failure was recorded as a local equipment fault, and the crew continued its work.
+A Veyr maintenance team reported that a relay node had missed a synchronisation pulse. The node corrected itself on the next cycle. The failure was recorded as a local equipment fault, and the crew continued its work.
 
 Then another node missed a pulse.
 
 Then three more.
 
-The incidents appeared across different systems, separated by vast distances and linked only by the same small biological irregularity in the personnel assigned to maintain them. Repair markers fell outside their expected phase window. Cells that normally coordinated damage response began sending signals too late. The affected Veyr remained conscious and mobile until the disruption reached a critical threshold, but the network that depended on their synchronized biology began to drift.
+The incidents appeared across different systems, separated by vast distances and linked only by the same small biological irregularity in the personnel assigned to maintain them. Repair markers fell outside their expected phase window. Cells that normally coordinated damage response began sending signals too late. The affected Veyr remained conscious and mobile until the disruption reached a critical threshold, but the network that depended on their synchronised biology began to drift.
 
-The Veyr medical system did not identify a single outbreak. It identified a set of unrelated problems: metabolic fatigue, delayed tissue repair, minor neural desynchronization, and intermittent failure in the living membranes used by the temporal infrastructure.
+The Veyr medical system did not identify a single outbreak. It identified a set of unrelated problems: metabolic fatigue, delayed tissue repair, minor neural desynchronisation, and intermittent failure in the living membranes used by the temporal infrastructure.
 
 LANTERN had not become a plague of sudden collapse. It had become a pattern that the Veyr were slow to recognise.
 
@@ -20,7 +20,7 @@ FTL shortened the time between worlds. It did not transmit the pathogen by magic
 
 The first Veyr-wide alert came too late to be useful. By the time the network classified the cases as potentially connected, the pathogen had already travelled through multiple transport routes. Ships were ordered to remain at their destinations, but many had departed before the restriction arrived. Other crews were already in transit, carrying the same low-level disruption into systems whose medical records had not yet been updated.
 
-The scientific centre sealed its biological chambers. The central membranes brightened as the anchor network increased its synchronization effort, compensating for the growing number of nodes that could no longer maintain the required phase relationship.
+The scientific centre sealed its biological chambers. The central membranes brightened as the anchor network increased its synchronisation effort, compensating for the growing number of nodes that could no longer maintain the required phase relationship.
 
 For a while, the correction worked.
 
@@ -36,13 +36,13 @@ A warning appeared:
 
 **DISTRIBUTED CAUSAL SYNCHRONIZATION DEGRADED**
 
-The Veyr researchers began emergency procedures. They redirected power to the central chamber, isolated biological hubs, and attempted to restore a single reference state across the affected nodes. Every correction required the network to agree on which version of its past was valid. The pathogen disrupted the biological timing pathway that allowed the anchors to synchronize. Each failed correction increased the disagreement.
+The Veyr researchers began emergency procedures. They redirected power to the central chamber, isolated biological hubs, and attempted to restore a single reference state across the affected nodes. Every correction required the network to agree on which version of its past was valid. The pathogen disrupted the biological timing pathway that allowed the anchors to synchronise. Each failed correction increased the disagreement.
 
 The system had been designed to make history consistent.
 
 It had no stable procedure for choosing between two incompatible histories when its own reference network was failing.
 
-Adrian's equation had described this threshold without naming it. The boundary term did not tell them how to destroy the network; it described the point at which two histories could no longer share a valid reference. LANTERN was pushing the Veyr's living synchronizers beyond that limit, one ordinary biological failure at a time. The equation had given Adrian the idea for AION, and now its logic explained why the Veyr's imposed history could no longer hold. The pathogen was not erasing the Veyr. It was making their machinery unable to insist that only one history was real.
+Adrian's equation had described this threshold without naming it. The boundary term did not tell them how to destroy the network; it described the point at which two histories could no longer share a valid reference. LANTERN was pushing the Veyr's living synchronisers beyond that limit, one ordinary biological failure at a time. The equation had given Adrian the idea for AION, and now its logic explained why the Veyr's imposed history could no longer hold. The pathogen was not erasing the Veyr. It was making their machinery unable to insist that only one history was real.
 
 Mira pressed her hand against the observation window. The central chamber's pulse stuttered. A membrane brightened, dimmed, and brightened again. The Veyr researchers moved between consoles, their signals overlapping in a confusion the translator could not render as words.
 
@@ -70,7 +70,7 @@ There was no explosion, no visible wave crossing the stars. The pulse simply sto
 
 The imposed history had lost its reference.
 
-The transition moved outward through the distributed network. Each anchor that fell out of synchronization weakened the branch the Veyr had forced into place. The history did not rewind like a film. Events were not played backward. Instead, the active causal solution changed. The network could no longer sustain the version of the world in which humanity had never existed.
+The transition moved outward through the distributed network. Each anchor that fell out of synchronisation weakened the branch the Veyr had forced into place. The history did not rewind like a film. Events were not played backward. Instead, the active causal solution changed. The network could no longer sustain the version of the world in which humanity had never existed.
 
 For an instant, Mira saw the room filled with Veyr researchers. Then she saw a different room: an empty chamber under a human research campus, its walls marked by dust and old cables. She saw a face she knew in the reflection of a dark screen—Adrian, looking toward an instrument. The image broke apart before she could tell whether it was memory or a signal from the reference state.
 
@@ -92,7 +92,7 @@ Mira placed her hand on the control surface. The device recognised the causal si
 
 She stepped into the field.
 
-Across the network, the final anchors lost synchronization. The Veyr-imposed history collapsed toward the baseline timeline. The Veyr-controlled version of the scientific centre, the colony, the ships, and the orbital structures became unstable references in a history that no longer supported the imposed anti-human branch. That did not mean every Veyr vanished. The biological outbreak had already caused heavy casualties, and the collapse would leave survivors in the restored history—living with the damage their own temporal intervention had helped unleash.
+Across the network, the final anchors lost synchronisation. The Veyr-imposed history collapsed toward the baseline timeline. The Veyr-controlled version of the scientific centre, the colony, the ships, and the orbital structures became unstable references in a history that no longer supported the imposed anti-human branch. That did not mean every Veyr vanished. The biological outbreak had already caused heavy casualties, and the collapse would leave survivors in the restored history—living with the damage their own temporal intervention had helped unleash.
 
 The last thing Mira saw was the central chamber's pulse, flickering like a light trying to remember its own rhythm.
 
