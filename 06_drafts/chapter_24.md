@@ -260,7 +260,7 @@ Instead, they began to ask what they wanted when no emergency was deciding for t
 
 Mira still wanted a garden and a tree that took years to bear fruit. Adrian still wanted somewhere quiet enough that he would not feel compelled to measure every sound. They wanted rain. They wanted a kitchen with steady lights. They wanted days that did not have to justify their existence by saving someone.
 
-The Veyr device could still travel through time if stabilized by AION's local causal reference. The destination had to be chosen carefully. They could not risk appearing near a settlement, a migration route, or a community that might become part of the historical record. “Undocumented” did not mean empty, and prehistory was not a blank page. It was full of lives that left few records.
+The Veyr device could still travel through time if stabilised by AION's local causal reference. The destination had to be chosen carefully. They could not risk appearing near a settlement, a migration route, or a community that might become part of the historical record. “Undocumented” did not mean empty, and prehistory was not a blank page. It was full of lives that left few records.
 
 They selected a remote period and a location far from known archaeological sites and likely migration corridors. Their goal was not to become rulers, teachers, or mysterious figures in an ancient story. They would carry only what they needed to survive and a small set of tools. They would avoid contact with other people. If they encountered signs of a community, they would move away.
 
@@ -276,7 +276,7 @@ She brushed the dirt from her hands. “I'm learning from you.”
 
 They packed a compact shelter, water purification equipment, simple tools, clothing, medical supplies, and a small archive of their memories. They did not bring the complete Veyr technology. They did not need the power to change history again. They needed only a one-way journey to a place where their lives would not become a force in the documented world.
 
-The final transit was quieter than the first. AION stabilized the local reference. The Veyr device resolved the destination. Their hands were joined as the field opened around them.
+The final transit was quieter than the first. AION stabilised the local reference. The Veyr device resolved the destination. Their hands were joined as the field opened around them.
 
 For a moment, Adrian saw the Stillhouse as it had been during the war: the emergency lights, the clock bank, the sealed archive, the empty platform after Mira's departure. Then the image dissolved.
 
