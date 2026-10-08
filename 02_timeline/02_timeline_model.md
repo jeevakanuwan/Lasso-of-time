@@ -12,7 +12,7 @@ The virus attacks a fictional biological pathway that the Veyr need to maintain 
 
 Because the anchors must remain synchronized, failures propagate through the network. The Veyr cannot repair the nodes quickly enough to keep the imposed history stable.
 
-When the network loses coherence, the imposed history ceases to be maintained. The universe settles into the baseline history that does not depend on the Veyr intervention.
+When the network loses coherence, the imposed history ceases to be maintained. The universe settles into the baseline history that does not depend on the Veyr intervention. The baseline human civilization continues without the invasion, while the Veyr civilization also survives—but the outbreak Mira seeded before first contact causes heavy casualties in its biological and temporal infrastructure. The temporal intervention collapses; the Veyr species is not universally erased.
 
 ## Why this is not a simple rewind
 
@@ -21,6 +21,10 @@ A rewind would return every object and person to an earlier state. That is not w
 Instead, the active history becomes the baseline history. Ordinary people remember only that history. Adrian's memory survives because AION isolated his causal reference. Mira's memory survives because she traveled through the Veyr device with a preserved temporal reference.
 
 The two of them are continuity exceptions, not evidence that everyone remembers two timelines.
+
+## The equation's closed loop
+
+The equation Adrian finds in his notebook has no independent first author. Adrian uses it to develop AION; the later mission and restored-world investigation reveal how it constrains the network's causal boundary. After reuniting, Adrian and Mira use the Veyr device to send the equation back to the precise earlier moment when it appeared in his notebook. It is a deliberate bootstrap loop, not a claim that the equation was created from nothing by ordinary physics. Its narrative payoff is that the characters complete the loop knowingly, and the equation becomes a concrete link between AION, the mission, and the title *The Lasso of Time*.
 
 ## The FTL network
 
