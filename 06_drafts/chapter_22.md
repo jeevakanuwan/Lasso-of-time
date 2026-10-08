@@ -48,7 +48,7 @@ She felt a rush of hope and forced herself to wait.
 
 The Veyr's screening systems were designed to detect immediate threats: toxins, acute infections, foreign organisms, and biological instability. LANTERN's intended effect was delayed and indirect. It did not announce itself as a new disease. It interfered with a coordination pathway that the Veyr treated as part of ordinary physiology. Until the disruption became severe enough to affect multiple systems, each case could be explained away.
 
-The FTL network carried personnel and biological cargo from one system to another. Each jump moved carriers, supplies, and the pathogen itself into new environments. The network was not transmitting infection across space. It was transporting infected living material faster than the Veyr's separate medical systems could recognize a shared outbreak.
+The FTL network carried personnel and biological cargo from one system to another. Each jump moved carriers, supplies, and the pathogen itself into new environments. The network was not transmitting infection across space. It was transporting infected living material faster than the Veyr's separate medical systems could recognise a shared outbreak.
 
 Mira sat on the floor and leaned against the wall. She had no proof that the mission would succeed, but the first pieces of the chain were moving. The sample had reached the scientific centre. The biological anomalies were appearing in separate systems. The timing network continued to operate, yet its signals showed small, repeated losses of coherence.
 
