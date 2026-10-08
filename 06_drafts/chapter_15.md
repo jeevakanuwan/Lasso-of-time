@@ -58,7 +58,7 @@ Adrian grabbed Mira's shoulder and pulled her back behind the housing. A ripple 
 
 She checked the cartridge. A faint residue clung to the tip. It was enough for a preliminary analysis, perhaps not enough for a full biological profile.
 
-The service court's lights changed. A Veyr worker turned toward the conduit and placed a hand against the membrane. The pulse stabilized. The worker remained still for several seconds, then resumed its task.
+The service court's lights changed. A Veyr worker turned toward the conduit and placed a hand against the membrane. The pulse stabilised. The worker remained still for several seconds, then resumed its task.
 
 Mira exhaled slowly. “It noticed a disturbance.”
 
@@ -86,7 +86,7 @@ Mira overlaid the new data with the original Veyr tissue profiles.
 
 “I can design a candidate. I can't promise it will work.”
 
-Adrian looked at the transit map. “If the pathogen spreads through Veyr personnel and biological cargo, the FTL network could carry it across their colonies before the outbreak is recognized.”
+Adrian looked at the transit map. “If the pathogen spreads through Veyr personnel and biological cargo, the FTL network could carry it across their colonies before the outbreak is recognised.”
 
 “Correct. The ships are transport, not magic. Infected carriers move between systems; the network makes the journey fast enough for the infection to outrun the response.”
 
