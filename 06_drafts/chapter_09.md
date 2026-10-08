@@ -40,7 +40,7 @@ The technician looked at the life-support rack.
 
 “Then we build for the longest duration we can support,” she said, “and we plan for the possibility that it won't be enough.”
 
-Adrian's work was more abstract. The chamber's clocks would not simply agree with one another. They would maintain a local reference state and continuously record their relationships. The toroid would stabilize the timing architecture against external phase disturbances. The shell would reduce ordinary electromagnetic coupling. The boundary-control system—still speculative—would use the anomaly's own mathematical signature to define the chamber as a causally isolated domain.
+Adrian's work was more abstract. The chamber's clocks would not simply agree with one another. They would maintain a local reference state and continuously record their relationships. The toroid would stabilise the timing architecture against external phase disturbances. The shell would reduce ordinary electromagnetic coupling. The boundary-control system—still speculative—would use the anomaly's own mathematical signature to define the chamber as a causally isolated domain.
 
 He had no proof that such a boundary could exist. He had evidence that the Veyr technology behaved as if it depended on one.
 
