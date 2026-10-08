@@ -336,6 +336,4 @@ The rain softened. The sky darkened. Somewhere beyond the valley, the human futu
 
 They had saved humanity without becoming part of its story.
 
-The universe forgot their war.
-
-They did not.
+The universe forgot their war. They did not.
