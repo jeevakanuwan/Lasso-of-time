@@ -100,7 +100,7 @@ They did not kiss. Not then. The promise was quieter than that, and more dangero
 
 The alert arrived before they returned to the lab.
 
-A Veyr research platform had been detected above the northern hemisphere, outside the range of conventional weapons. It had not fired. It had not maneuvered toward a defense target. It had simply altered its orbit to maintain a line of observation over several human scientific facilities, including their own.
+A Veyr research platform had been detected above the northern hemisphere, outside the range of conventional weapons. It had not fired. It had not maneuvered toward a defence target. It had simply altered its orbit to maintain a line of observation over several human scientific facilities, including their own.
 
 Command classified it as surveillance. The public broadcast called it a precursor to an attack.
 
