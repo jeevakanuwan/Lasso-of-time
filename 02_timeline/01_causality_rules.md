@@ -13,7 +13,7 @@ These rules are canon. Chapters may reveal them gradually, but must not contradi
 9. Mira learns to operate the Veyr temporal device and travels to a period before the invasion of Earth.
 10. Her deployment point is in the sky above Earth. Humanity does not yet know the Veyr exist.
 11. When infection disables the Veyr's distributed temporal anchors, the imposed anti-human history loses its stabilizing mechanism.
-12. The timeline then returns to the last self-consistent baseline history not dependent on the Veyr intervention: the human history in which the invasion never occurred. The Veyr civilization also survives in that history, but LANTERN causes heavy casualties; the imposed branch's collapse does not universally erase the Veyr species.
+12. The timeline returns to the restored human baseline: the invasion never occurs and human history continues without the war. LANTERN remains a deliberate intervention footprint in Veyr history, causing heavy casualties but not universal extermination.
 13. This is not a universal rewind. It is a transition from an imposed, actively maintained causal solution to the baseline solution.
 14. Adrian's continuity is protected by AION. Mira's continuity is protected by her temporal transit and the Veyr device's causal lock.
 15. Their ordinary selves exist in the restored history, but neither ordinary self remembers the war.
