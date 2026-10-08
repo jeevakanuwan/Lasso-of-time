@@ -202,6 +202,8 @@ He looked at her hand. The gesture was not proof of the erased history. People b
 
 They began to share the years no one else remembered. The laboratory. The invasion. The research. The Stillhouse. The Veyr world. Mira's journey into the past. Adrian's long wait. They spoke in short sessions, stopping when the memories became too heavy or when the evidence required another check.
 
+Only later did Mira explain what had happened when she entered the return field. The interlock had preserved AION's causal reference, but not its coordinates. She emerged in a sealed calibration room at a human research institute, where the local reference clocks were registering a faint phase anomaly. The Veyr device had gone inert. The world around her had already returned to its ordinary history, and there was no record of the war—or of the Stillhouse. She had survived, but she had no direct route to Adrian. The anomaly in her own research was the only thread she could follow.
+
 Nearly twenty years of subjective life had happened inside a history the world no longer contained. They had grown older in it—not only in the passage of time, but in the decisions they had made under pressure. They had loved each other while the world was ending. They had chosen to save people who would never know their names. They had sacrificed the future they imagined together so that a different future could exist.
 
 Now the restored world offered them ordinary lives, with careers, families, and opportunities that had never been interrupted by war. They could accept those lives. They could leave the impossible story unspoken and allow the memories to fade.
