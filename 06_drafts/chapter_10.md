@@ -6,7 +6,7 @@ Adrian wrote that sentence in the log because he could no longer trust a timesta
 
 At 21:17, the command network reported that three Veyr platforms had aligned above the Indian Ocean.
 
-At 21:22, every satellite navigation system in the region lost synchronization.
+At 21:22, every satellite navigation system in the region lost synchronisation.
 
 At 21:31, the national emergency broadcast played a message that had been recorded in a voice Adrian recognised as the president's. The message ordered the population to evacuate inland. Eleven minutes later, the same broadcast played a different version in which the president said there had been no evacuation order.
 
