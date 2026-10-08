@@ -1,34 +1,16 @@
 # Chapter 20 — First Contact
 
-## Revised premise
+Mira arrives **above Earth**, in an era long before the Veyr invasion.
 
-Mira does not arrive on Earth's surface during the original first-contact event.
+Earth is peaceful and has no knowledge of extraterrestrial civilization.
 
-She arrives **above Earth**, in a period long before the Veyr invasion.
+She confirms the date and realizes she has arrived before the war existed.
 
-From her position she can see an untouched human civilization.
+She deploys the virus into the Veyr operational environment.
 
-No alien warnings.
+A Veyr vessel detects her temporal signature and captures her.
 
-No military response.
-
-No knowledge that humanity is about to become the battlefield of an interstellar war.
-
-## Key beats
-
-- Mira confirms the date.
-- Earth is unaware of the Veyr.
-- She realizes she has arrived before the war began.
-- The virus is still viable.
-- She deploys it into the Veyr operational environment.
-- A Veyr vessel detects her temporal signature.
-
-## Dramatic irony
-
-Mira has arrived in the only era in which humanity is completely safe because the Veyr have not yet attacked.
-
-She is carrying the weapon that will make the invasion impossible.
+**Dramatic irony:** Mira has arrived when humanity is completely safe because the Veyr have not attacked yet.
 
 ## Draft status
-
 Outline revised.
