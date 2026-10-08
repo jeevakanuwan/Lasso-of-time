@@ -38,7 +38,7 @@ Adrian was already moving.
 
 The laboratory occupied a buried complex built beneath an old research campus, with reinforced access corridors and enough shielding to keep the instruments running through most of the attacks. It had been designed for particle physics. It now housed whatever branches of science the war had not yet made obsolete.
 
-In the corridor, soldiers guided a group of technicians toward the interior shelters. A young man sat on the floor holding a pressure dressing against his forearm. Nobody looked at him for long. The first months of the invasion had made every injury an emergency. The next years had made emergencies routine.
+In the corridor, soldiers guided a group of technicians toward the interior shelters. A young man sat on the floor holding a pressure dressing against his forearm. Nobody looked at him for long. The first months of the invasion had made every injury an emergency. The years that followed had made emergencies routine.
 
 Adrian reached Lab C and found the outer door open.
 
