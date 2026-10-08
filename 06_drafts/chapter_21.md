@@ -68,7 +68,7 @@ She could not see it, but she could infer the sequence. A sealed module had been
 
 The ship accelerated.
 
-Mira felt the change through the floor, though there was no conventional engine vibration. The transit system had engaged its FTL field. A sequence of phase pulses travelled through the corridor membranes, synchronizing the ship's internal systems for the jump.
+Mira felt the change through the floor, though there was no conventional engine vibration. The transit system had engaged its FTL field. A sequence of phase pulses travelled through the corridor membranes, synchronising the ship's internal systems for the jump.
 
 The network had begun moving the sample.
 
