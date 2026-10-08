@@ -2,7 +2,7 @@
 
 The central node stood inside a district that the Veyr maps called a living exchange.
 
-Adrian and Mira reached it during the low-traffic phase, when the transport lanes dimmed and most of the nearby maintenance activity moved indoors. They had spent the previous day studying the pulse pattern from the Stillhouse, identifying the brief interval when the node's external signal dropped below the local noise floor. The interval lasted twenty-two seconds. They would have one chance to cross the service court, collect a biological sample, and return before the next synchronization pulse.
+Adrian and Mira reached it during the low-traffic phase, when the transport lanes dimmed and most of the nearby maintenance activity moved indoors. They had spent the previous day studying the pulse pattern from the Stillhouse, identifying the brief interval when the node's external signal dropped below the local noise floor. The interval lasted twenty-two seconds. They would have one chance to cross the service court, collect a biological sample, and return before the next synchronisation pulse.
 
 They carried no active transmitter. Their instruments were optical, mechanical, or powered by isolated batteries. Mira wore a sealed field layer with a small sample cartridge at the wrist. Adrian carried the passive recorder and a compact phase detector assembled from parts salvaged from the Stillhouse.
 
@@ -42,7 +42,7 @@ Mira's eyes sharpened. “There. Direct exchange.”
 
 “No. But I can collect a sample.”
 
-The next synchronization interval approached. They moved along the service housing until they were within reach of a conduit that had separated from the main cluster. A thin film covered its outer surface. Mira extended the sampling tool and touched the film with a sterile tip.
+The next synchronisation interval approached. They moved along the service housing until they were within reach of a conduit that had separated from the main cluster. A thin film covered its outer surface. Mira extended the sampling tool and touched the film with a sterile tip.
 
 The detector chirped once.
 
@@ -80,7 +80,7 @@ Mira overlaid the new data with the original Veyr tissue profiles.
 
 “Could a pathogen target it?”
 
-“Potentially. The virus would need to bind to a Veyr-specific receptor and disrupt the synchronization pathway without relying on a single mutable surface feature. It also needs a delayed onset so infected carriers can move through the network before symptoms trigger screening.”
+“Potentially. The virus would need to bind to a Veyr-specific receptor and disrupt the synchronisation pathway without relying on a single mutable surface feature. It also needs a delayed onset so infected carriers can move through the network before symptoms trigger screening.”
 
 “Can you make that?”
 
@@ -92,7 +92,7 @@ Adrian looked at the transit map. “If the pathogen spreads through Veyr person
 
 “And once it reaches enough nodes?”
 
-“If the biological synchronization system is essential to the anchors, widespread disruption could destabilize the rewritten history.”
+“If the biological synchronisation system is essential to the anchors, widespread disruption could destabilise the rewritten history.”
 
 “Could.”
 
