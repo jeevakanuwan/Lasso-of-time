@@ -2,7 +2,7 @@
 
 The first symptom was a disagreement of seven nanoseconds.
 
-The national time service reported it as a calibration anomaly. The military network described it as a synchronization fault. The civilian broadcasts ignored it entirely. Seven nanoseconds was too small to interrupt a phone call, alter a train schedule, or make a clock visibly wrong.
+The national time service reported it as a calibration anomaly. The military network described it as a synchronisation fault. The civilian broadcasts ignored it entirely. Seven nanoseconds was too small to interrupt a phone call, alter a train schedule, or make a clock visibly wrong.
 
 But every independent reference system on Earth recorded the same direction of drift.
 
