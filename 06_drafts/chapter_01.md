@@ -24,7 +24,7 @@ A white line appeared across the clouds. It was too straight to be lightning and
 
 The facility shuddered.
 
-Somewhere above them, a weapon had struck the coastal defense grid. The lights dimmed and returned. Dust sifted from a ceiling vent. A siren began its three-note cycle, stopped, and began again in a lower register.
+Somewhere above them, a weapon had struck the coastal defence grid. The lights dimmed and returned. Dust sifted from a ceiling vent. A siren began its three-note cycle, stopped, and began again in a lower register.
 
 Adrian's tablet filled with red warnings.
 
@@ -110,7 +110,7 @@ The alarm changed pitch. The laboratory door slid shut behind them as the facili
 
 Mira glanced up. “How long?”
 
-“Depends on what hit the defense grid.”
+“Depends on what hit the defence grid.”
 
 “That's not an answer.”
 
@@ -206,7 +206,7 @@ He was already opening the event log.
 
 “It is. You use it whenever you're scared.”
 
-He turned toward her, ready to object. The words never arrived. She had said it without accusation, and because she was right, he had no useful defense.
+He turned toward her, ready to object. The words never arrived. She had said it without accusation, and because she was right, he had no useful defence.
 
 For a moment the sirens seemed very far away.
 
