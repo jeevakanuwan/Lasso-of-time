@@ -30,7 +30,7 @@ The earlier ambiguous ending in which humanity's ultimate fate remained uncertai
 ## Audit reports — branch `iteration/audit09102026`
 
 - [Character, location, and event continuity](02_audit_character_location_events.md)
-- [Science and speculative mechanisms](03_audit_science_pseudosci.md)
+- [Science and speculative mechanisms](03_audit_science_and_speculative_mechanisms.md)
 - [Grammar and proofreading](04_audit_language_proofreading.md)
 - [Chapter hooks, poetic justice, and ending](05_audit_chapter_hooks_and_ending.md)
 - [Integrated audit summary and action list](06_integrated_audit_summary.md)
