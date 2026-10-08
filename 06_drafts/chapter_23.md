@@ -90,11 +90,11 @@ Mira placed her hand on the control surface. The device recognised the causal si
 
 She stepped into the field.
 
-Across the network, the final anchors lost synchronization. The Veyr-imposed history collapsed toward the baseline timeline. The scientific centre, the colony, the ships, the orbital structures—all of them became unstable references in a history that no longer supported them.
+Across the network, the final anchors lost synchronization. The Veyr-imposed history collapsed toward the baseline timeline. The Veyr-controlled version of the scientific centre, the colony, the ships, and the orbital structures became unstable references in a history that no longer supported the imposed anti-human branch. That did not mean every Veyr vanished. The biological outbreak had already caused heavy casualties, and the collapse would leave survivors in the restored history—living with the damage their own temporal intervention had helped unleash.
 
 The last thing Mira saw was the central chamber's pulse, flickering like a light trying to remember its own rhythm.
 
-Then the Veyr world vanished.
+Then the imposed version of the Veyr world vanished. The species itself did not. In the baseline history returning around her, the Veyr civilization would continue, badly wounded by LANTERN but not erased from existence.
 
 In the Stillhouse, Adrian watched the external receiver as the city lost coherence. Veyr transit lights blinked out. The central structure over the old campus dissolved into a series of contradictory images. For a moment, the sky was empty. Then radio traffic returned in a burst of noise.
 
