@@ -12,7 +12,7 @@ The virus attacks a fictional biological pathway that the Veyr need to maintain 
 
 Because the anchors must remain synchronized, failures propagate through the network. The Veyr cannot repair the nodes quickly enough to keep the imposed history stable.
 
-When the network loses coherence, the imposed history ceases to be maintained. The universe settles into the baseline history that does not depend on the Veyr intervention. The baseline human civilization continues without the invasion, while the Veyr civilization also survives—but the outbreak Mira seeded before first contact causes heavy casualties in its biological and temporal infrastructure. The temporal intervention collapses; the Veyr species is not universally erased.
+When the network loses coherence, the imposed history ceases to be maintained. The universe settles into the restored human baseline: the invasion never occurs, and human history continues without the war. Mira's intervention leaves one deliberate footprint in the Veyr's history, however. LANTERN has already entered their biological logistics network, so the Veyr civilization survives but suffers heavy casualties in its biological and temporal infrastructure. This is not universal extermination, nor is the restored history untouched in every respect; it is human baseline history with the consequences of the successful countermeasure retained.
 
 ## Why this is not a simple rewind
 
