@@ -114,7 +114,7 @@ Adrian studied the orbital solution. “It's watching our research sites.”
 
 They had been careful. The project ran on isolated instruments, and its records were held inside a segmented network. But the Veyr had already demonstrated a capacity to obtain information from damaged equipment and anomalous reference signals. Security was a problem they could not solve by adding another password.
 
-At 14:30, Captain Ilyan arrived with a new directive. The Veyr platform had transmitted a narrow-band pulse toward the research corridor. The pulse did not damage equipment. It caused every instrument using the laboratory's primary reference clock to lose synchronization for 0.6 seconds.
+At 14:30, Captain Ilyan arrived with a new directive. The Veyr platform had transmitted a narrow-band pulse toward the research corridor. The pulse did not damage equipment. It caused every instrument using the laboratory's primary reference clock to lose synchronisation for 0.6 seconds.
 
 Mira stared at the trace. “It wasn't a weapon.”
 
@@ -128,7 +128,7 @@ He compared the pulse signature with the black fragments' response and the times
 
 “Or whether we can reproduce it,” Mira said.
 
-A new alert appeared on Captain Ilyan's tablet. The laboratory security system had detected an attempted access to the pathogen project's metadata. No files had been opened, and the intrusion had not come through the ordinary network. It had arrived as a malformed synchronization request sent to a reference controller that was supposed to be physically isolated.
+A new alert appeared on Captain Ilyan's tablet. The laboratory security system had detected an attempted access to the pathogen project's metadata. No files had been opened, and the intrusion had not come through the ordinary network. It had arrived as a malformed synchronisation request sent to a reference controller that was supposed to be physically isolated.
 
 The request contained a string of characters that the translation system rendered as a Veyr technical label.
 
