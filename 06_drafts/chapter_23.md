@@ -82,6 +82,8 @@ She reached the containment vault and found the Veyr device intact on its platfo
 
 AION.
 
+But it had resolved a causal reference, not a physical address. The Veyr facility's coordinates were dissolving with the imposed history; the interlock could preserve her continuity without guaranteeing where it would place her.
+
 Mira placed her hand on the control surface. The device recognized the causal signature preserved in her transit record. The field opened around her, but this time the destination resolved without a warning.
 
 **STABLE REFERENCE CONFIRMED**
