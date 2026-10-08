@@ -12,7 +12,7 @@ The incidents appeared across different systems, separated by vast distances and
 
 The Veyr medical system did not identify a single outbreak. It identified a set of unrelated problems: metabolic fatigue, delayed tissue repair, minor neural desynchronization, and intermittent failure in the living membranes used by the temporal infrastructure.
 
-LANTERN had not become a plague of sudden collapse. It had become a pattern that the Veyr were slow to recognize.
+LANTERN had not become a plague of sudden collapse. It had become a pattern that the Veyr were slow to recognise.
 
 Mira watched the reports from her observation room as the facility's researchers attempted to reconcile them. She could not see every system, but the centre's network displayed enough data to reveal the spread. A transport crew from one colony had carried biological cargo to a second system. Personnel from the receiving station had moved to a third. Medical supplies had been transferred to a fourth. Each journey was ordinary. Each moved infected living material into another part of the network.
 
@@ -84,7 +84,7 @@ AION.
 
 But it had resolved a causal reference, not a physical address. The Veyr facility's coordinates were dissolving with the imposed history; the interlock could preserve her continuity without guaranteeing where it would place her.
 
-Mira placed her hand on the control surface. The device recognized the causal signature preserved in her transit record. The field opened around her, but this time the destination resolved without a warning.
+Mira placed her hand on the control surface. The device recognised the causal signature preserved in her transit record. The field opened around her, but this time the destination resolved without a warning.
 
 **STABLE REFERENCE CONFIRMED**
 
@@ -100,7 +100,7 @@ In the Stillhouse, Adrian watched the external receiver as the city lost coheren
 
 Human voices.
 
-The camera feed stabilized on the familiar outline of the city. Roads reappeared. Lights burned in windows. An aircraft crossed the sky. The external sensor registered satellites, weather broadcasts, and the ordinary electromagnetic clutter of a human world.
+The camera feed stabilised on the familiar outline of the city. Roads reappeared. Lights burned in windows. An aircraft crossed the sky. The external sensor registered satellites, weather broadcasts, and the ordinary electromagnetic clutter of a human world.
 
 Adrian gripped the console.
 
