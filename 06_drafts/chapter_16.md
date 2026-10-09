@@ -6,7 +6,7 @@ Adrian said it sounded like a project that would eventually be renamed by a comm
 
 The work took nine days.
 
-She built the candidate from the biological evidence they had gathered: the original Veyr tissue data preserved inside AION, the current colony sample, and the timing response measured at the central node. The design depended on a combination of Veyr-specific molecular recognition and a disruption pathway that would not activate in ordinary terrestrial cells. It was not intended to destroy every cell it encountered. Its intended effect was to interfere with the Veyr's synchronized repair and signalling system, leaving the organism increasingly unable to coordinate the processes on which its advanced biology depended.
+She built the candidate from the biological evidence they had gathered: the original Veyr tissue data preserved inside AION, the current colony sample, and the timing response measured at the central node. The design depended on a combination of Veyr-specific molecular recognition and a disruption pathway that would not activate in ordinary terrestrial cells. It was not intended to destroy every cell it encountered. Its intended effect was to interfere with the Veyr's synchronised repair and signalling system, leaving the organism increasingly unable to coordinate the processes on which its advanced biology depended.
 
 The candidate remained a model until the final day. Mira tested its predicted binding against both sets of Veyr data, then tested the model against a library of human molecular structures. It showed no obvious route to binding human cells, but the library was incomplete and the model could not prove universal safety. She recorded the uncertainty in the first line of the report.
 
@@ -22,13 +22,13 @@ Adrian read it.
 
 The Stillhouse was silent except for the air system and the cooling pump. Their remaining supplies had been reduced to a careful schedule. The boundary lattice was stable at low load, but the last external mission had left a permanent shift in one superconducting ring. Adrian could compensate for it, not repair it. The chamber could survive another transition if the field behaved within the model. It could not survive an uncontrolled failure.
 
-Mira finished the first viable candidate and sealed it inside a triple containment capsule. It was not a weapon ready for release. It was a tightly controlled research sample whose intended use depended on a chain of events they had not yet achieved: temporal transit to the earlier history, delivery into a Veyr biological carrier, and spread through the civilization's FTL logistics network before the Veyr recognized the outbreak.
+Mira finished the first viable candidate and sealed it inside a triple containment capsule. It was not a weapon ready for release. It was a tightly controlled research sample whose intended use depended on a chain of events they had not yet achieved: temporal transit to the earlier history, delivery into a Veyr biological carrier, and spread through the civilization's FTL logistics network before the Veyr recognised the outbreak.
 
 “If we deploy it in the wrong place,” she said, “it may kill organisms and change nothing about the timeline.”
 
 “If we deploy it too early, the Veyr might detect it and develop a countermeasure.”
 
-“If we deploy it too late, the anchor network may already have stabilized the rewritten branch.”
+“If we deploy it too late, the anchor network may already have stabilised the rewritten branch.”
 
 Adrian opened the temporal model. “We need the point at which their network is vulnerable but the invasion hasn't begun.”
 
@@ -54,7 +54,7 @@ He read it again.
 
 Mira looked up. “What does that mean?”
 
-“It may not mean AION. It may mean the nearest stable reference recognized by the Veyr system.”
+“It may not mean AION. It may mean the nearest stable reference recognised by the Veyr system.”
 
 “Which could be the destination period.”
 
@@ -116,7 +116,7 @@ He felt the answer before she said anything. The temporal device could only carr
 
 “You designed it. You can teach me.”
 
-“Not enough. If the sample behaves differently in the earlier timeline, I need to recognize it. If the delivery fails, I need to decide whether to retry or abort.”
+“Not enough. If the sample behaves differently in the earlier timeline, I need to recognise it. If the delivery fails, I need to decide whether to retry or abort.”
 
 He searched for another argument. Every one he found was a way to protect her by pretending the mission could be done without her.
 

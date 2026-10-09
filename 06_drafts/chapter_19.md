@@ -8,7 +8,7 @@ The ring around her brightened.
 
 She kept her eyes on the manual timer. The display counted three seconds, then stopped. The suit's independent clock continued, but its digits flickered between two values. She followed the printed procedure: hold position, keep the sample capsule sealed, do not attempt a correction until the destination lock resolved.
 
-The distortion above the platform unfolded into a field of pale geometry. The Veyr markings along the ring shifted, rearranging themselves into patterns that looked less like symbols than relationships. Mira recognized the phase signature from the navigation unit, but here it was not a recorded trace. It was a path being calculated around her.
+The distortion above the platform unfolded into a field of pale geometry. The Veyr markings along the ring shifted, rearranging themselves into patterns that looked less like symbols than relationships. Mira recognised the phase signature from the navigation unit, but here it was not a recorded trace. It was a path being calculated around her.
 
 The Return Interlock engaged.
 
@@ -68,7 +68,7 @@ Mira's breath caught.
 
 For the first time since the rewrite, Earth looked like a world that had not been claimed by anyone.
 
-The suit's clock resolved the destination date within a narrow range. It was before the first Veyr arrival in the original timeline. She checked the range against Adrian's target interval. The result fell inside it.
+The suit's clock resolved the destination date within a narrow range. It was before the first recorded hostile arrival at Earth in the original timeline. She checked the range against Adrian's target interval. The result fell inside it.
 
 The mission had reached the right era.
 
@@ -86,4 +86,4 @@ Mira checked the deployment plan.
 
 The target was not the planet beneath her.
 
-It was the civilization that had not yet arrived.
+It was the civilization that had not yet revealed itself to Earth.

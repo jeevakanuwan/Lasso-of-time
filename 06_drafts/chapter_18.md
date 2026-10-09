@@ -2,9 +2,9 @@
 
 The Stillhouse had never been so quiet.
 
-Adrian kept the return channel open for six hours, though the device's power reserve could not sustain an active field for more than a fraction of that time. He watched the reference clocks, the passive record, and the empty platform. Each system continued to report that the chamber was stable. None could tell him where Mira was.
+Adrian monitored the passive return channel for six hours, though the device's power reserve could sustain an active field for only a fraction of a second. He watched the reference clocks, the passive record, and the empty platform. Each system continued to report that the chamber was stable. None could tell him where Mira was.
 
-He forced himself to shut the ring down.
+He shut the ring down to conserve the remaining power.
 
 AION's boundary remained intact, but the temporal device had consumed most of the energy available for another jump. The return system was not a promise. It was a conditional route that might work if the destination's causal state remained compatible with Mira's reference. The only action Adrian could take now was to preserve the record and wait for a signal.
 
@@ -40,7 +40,7 @@ At 22:00, he played the last recording Mira had left behind. It was not a messag
 
 He listened twice.
 
-Then he returned to the control console and began modeling the restoration problem. If the network failed, the imposed history might collapse toward the last stable causal branch. AION's record could identify the original branch, but it could not force the universe to select it. The restoration would depend on whether the Veyr's anchor network had overwritten history or merely stabilized a competing solution.
+Then he returned to the control console and began modelling the restoration problem. If the network failed, the imposed history might collapse toward the last stable causal branch. AION's record could identify the original branch, but it could not force the universe to select it. The restoration would depend on whether the Veyr's anchor network had overwritten history or merely stabilised a competing solution.
 
 Adrian could not resolve the question from the chamber.
 

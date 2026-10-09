@@ -46,7 +46,7 @@ They found the first living Veyr at a transit junction. It was taller than the c
 
 Mira recorded the interaction through a passive optical lens.
 
-The Veyr did not appear to be monitoring for human life. There were no patrols sweeping the area, no search lights, no visible security perimeter around the old campus. The Stillhouse had not registered as an enemy installation. It was simply an unrecognized space within a city that had no reason to expect humans.
+The Veyr did not appear to be monitoring for human life. There were no patrols sweeping the area, no search lights, no visible security perimeter around the old campus. The Stillhouse had not registered as an enemy installation. It was simply an unrecognised space within a city that had no reason to expect humans.
 
 That could change.
 
@@ -100,7 +100,7 @@ That night, Mira began a new research plan. She would not design a pathogen from
 
 “We need to establish continuity,” she said. “Same species, same dependency, same response. If we assume the old data transfers perfectly, we could miss a change that makes the pathogen useless.”
 
-Adrian reviewed the network recordings. “And I need to identify the anchor synchronization pattern. If the pathogen works, it has to disrupt something that matters to the timeline, not just make the Veyr ill.”
+Adrian reviewed the network recordings. “And I need to identify the anchor synchronisation pattern. If the pathogen works, it has to disrupt something that matters to the timeline, not just make the Veyr ill.”
 
 Mira looked at him. “Then we're not building a disease. We're trying to find the system's point of failure.”
 
@@ -121,3 +121,7 @@ Adrian looked at the sealed chamber, the alien city, and the little packet of se
 “One day,” he agreed.
 
 They closed the hatch and returned to work.
+
+A minute later, the passive recorder chimed. It had logged the next synchronisation pulse forty-seven seconds before the signal itself arrived.
+
+Mira read the trace twice. “Either the node is changing its own record,” she said, “or it knows what it's about to do.”

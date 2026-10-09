@@ -24,7 +24,7 @@ A white line appeared across the clouds. It was too straight to be lightning and
 
 The facility shuddered.
 
-Somewhere above them, a weapon had struck the coastal defense grid. The lights dimmed and returned. Dust sifted from a ceiling vent. A siren began its three-note cycle, stopped, and began again in a lower register.
+Somewhere above them, a weapon had struck the coastal defence grid. The lights dimmed and returned. Dust sifted from a ceiling vent. A siren began its three-note cycle, stopped, and began again in a lower register.
 
 Adrian's tablet filled with red warnings.
 
@@ -38,7 +38,7 @@ Adrian was already moving.
 
 The laboratory occupied a buried complex built beneath an old research campus, with reinforced access corridors and enough shielding to keep the instruments running through most of the attacks. It had been designed for particle physics. It now housed whatever branches of science the war had not yet made obsolete.
 
-In the corridor, soldiers guided a group of technicians toward the interior shelters. A young man sat on the floor holding a pressure dressing against his forearm. Nobody looked at him for long. The first months of the invasion had made every injury an emergency. The next years had made emergencies routine.
+In the corridor, soldiers guided a group of technicians toward the interior shelters. A young man sat on the floor holding a pressure dressing against his forearm. Nobody looked at him for long. The first months of the invasion had made every injury an emergency. The years that followed had made emergencies routine.
 
 Adrian reached Lab C and found the outer door open.
 
@@ -110,7 +110,7 @@ The alarm changed pitch. The laboratory door slid shut behind them as the facili
 
 Mira glanced up. “How long?”
 
-“Depends on what hit the defense grid.”
+“Depends on what hit the defence grid.”
 
 “That's not an answer.”
 
@@ -194,19 +194,19 @@ Mira looked from the display to Adrian. “What was that?”
 
 He was already opening the event log.
 
-“Probably a synchronization fault.”
+“Probably a synchronisation fault.”
 
 “You don't sound convinced.”
 
 “I don't like conclusions before evidence.”
 
-“That's your favorite sentence.”
+“That's your favourite sentence.”
 
 “It's a good sentence.”
 
 “It is. You use it whenever you're scared.”
 
-He turned toward her, ready to object. The words never arrived. She had said it without accusation, and because she was right, he had no useful defense.
+He turned toward her, ready to object. The words never arrived. She had said it without accusation, and because she was right, he had no useful defence.
 
 For a moment the sirens seemed very far away.
 
@@ -304,8 +304,8 @@ He looked at her a second longer than he meant to.
 
 “Too late,” he said.
 
-The next impact shook dust from the ceiling. Neither of them heard the other alarms begin.
+The next impact shook dust from the ceiling. Neither noticed when the other alarms began.
 
-For the first time since the invasion, Adrian had found something the Veyr might not understand.
+Adrian had found something the Veyr might not understand.
 
-For the first time since the invasion, Mira was afraid that understanding it might be worse.
+Mira was afraid that understanding it might be worse.

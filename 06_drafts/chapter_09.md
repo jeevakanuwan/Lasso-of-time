@@ -40,7 +40,7 @@ The technician looked at the life-support rack.
 
 “Then we build for the longest duration we can support,” she said, “and we plan for the possibility that it won't be enough.”
 
-Adrian's work was more abstract. The chamber's clocks would not simply agree with one another. They would maintain a local reference state and continuously record their relationships. The toroid would stabilize the timing architecture against external phase disturbances. The shell would reduce ordinary electromagnetic coupling. The boundary-control system—still speculative—would use the anomaly's own mathematical signature to define the chamber as a causally isolated domain.
+Adrian's work was more abstract. The chamber's clocks would not simply agree with one another. They would maintain a local reference state and continuously record their relationships. The toroid would stabilise the timing architecture against external phase disturbances. The shell would reduce ordinary electromagnetic coupling. The boundary-control system—still speculative—would use the anomaly's own mathematical signature to define the chamber as a causally isolated domain.
 
 He had no proof that such a boundary could exist. He had evidence that the Veyr technology behaved as if it depended on one.
 
@@ -96,7 +96,7 @@ They began the fifth test with a stronger pulse. The boundary remained stable fo
 
 Adrian printed the trace and taped it to the wall.
 
-The machine had not stopped time. It had not shielded them from every possible effect. It had preserved an observer's local causal reference through an anomaly that should have destabilized it.
+The machine had not stopped time. It had not shielded them from every possible effect. It had preserved an observer's local causal reference through an anomaly that should have destabilised it.
 
 Mira stood beside him, studying the curve.
 
@@ -130,7 +130,7 @@ He turned toward her. “Because of my engineering pessimism?”
 
 He kissed her hair. The gesture was so ordinary that it frightened him more than the tests had.
 
-A new report arrived from command. The temporal correction window was expanding. The Veyr had begun synchronizing multiple orbital platforms, and the anomaly now affected archival systems across every continent. The command network could no longer guarantee that its orders remained in the same historical sequence long enough to be executed.
+A new report arrived from command. The temporal correction window was expanding. The Veyr had begun synchronising multiple orbital platforms, and the anomaly now affected archival systems across every continent. The command network could no longer guarantee that its orders remained in the same historical sequence long enough to be executed.
 
 AION's final test had to happen soon.
 

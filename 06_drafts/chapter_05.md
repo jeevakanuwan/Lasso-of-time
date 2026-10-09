@@ -192,7 +192,7 @@ Mira reached for the keyboard. “What reset?”
 
 “Did we lose the buffer?”
 
-He checked the drive. The data remained. The system logs showed a six-second discontinuity, followed by a synchronization event whose timestamp predated the impact.
+He checked the drive. The data remained. The system logs showed a six-second discontinuity, followed by a synchronisation event whose timestamp predated the impact.
 
 The alarm continued, but the wall display showed a status message unlike any he had seen:
 

@@ -30,4 +30,8 @@ They believe history can be edited without meaningful consequences.
 
 ## Fatal mistake
 
-The Veyr treat temporal causality as controllable and their FTL logistics as safe. Their attempt to erase humanity instead creates the conditions under which humanity's last weapon reaches the entire Veyr civilization.
+The Veyr treat temporal causality as controllable and their FTL logistics as safe. Their attempt to erase humanity instead creates the conditions under which humanity's last weapon spreads through the Veyr network.
+
+## Fate after the collapse
+
+The Veyr are not universally erased when their imposed history collapses. The baseline human civilization returns, and the Veyr civilization continues in the restored history, but LANTERN causes heavy casualties across its biological coordination systems and temporal infrastructure. Some Veyr survive. The victory is the end of their anti-human temporal operation, not the extermination of an entire species. This distinction preserves the moral weight of the protagonists' choice and avoids making timeline restoration a magical universal kill switch.

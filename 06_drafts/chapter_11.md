@@ -4,7 +4,7 @@ The world outside the Stillhouse did not end.
 
 It continued.
 
-That was the first cruelty Adrian understood when the sensors stabilized. There had been no final flash, no universal silence, no instant in which the planet ceased to be. The Veyr had not destroyed Earth. They had changed the history that made Earth human.
+That was the first cruelty Adrian understood when the sensors stabilised. There had been no final flash, no universal silence, no instant in which the planet ceased to be. The Veyr had not destroyed Earth. They had changed the history that made Earth human.
 
 The camera feed showed a structure rising from the old campus, its dark ribs curving over the ground like the skeleton of an enormous seed. Pale transport lights moved along tracks that had not existed the day before. Beyond it, the city was unfamiliar but not ruined. Towers stood where human buildings had once crowded the horizon, though their shapes were different and their surfaces reflected the sky in muted bands of green and silver.
 
@@ -18,7 +18,7 @@ He brought up the passive archive.
 
 They had preserved the original timeline as a set of local measurements: handwritten logs, clock relationships, photographs, isolated drives, and the physical record strip. None of those things could prove every detail of the lost world. But together they formed a chain of evidence that the world outside now denied.
 
-The last external archive had been replaced. The campus's history described a Veyr research station that had existed for eighty-three local years. Human civilization was absent from the records. The species database listed no terrestrial hominin line. The city map had no streets, districts, or monuments that Adrian recognized. The planetary environment had been shaped around Veyr settlement and transport.
+The last external archive had been replaced. The campus's history described a Veyr research station that had existed for eighty-three local years. Human civilization was absent from the records. The species database listed no terrestrial hominin line. The city map had no streets, districts, or monuments that Adrian recognised. The planetary environment had been shaped around Veyr settlement and transport.
 
 Mira searched for the names of their colleagues.
 
@@ -108,7 +108,7 @@ She sat beside him.
 
 She looked at the phase signature on the screen. “The network is holding the history together.”
 
-“If we can disrupt its synchronization, perhaps the imposed branch won't remain stable.”
+“If we can disrupt its synchronisation, perhaps the imposed branch won't remain stable.”
 
 “Perhaps.”
 

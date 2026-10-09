@@ -8,7 +8,7 @@ Mira stood on the platform, studying the ring.
 
 “You're certain the destination window is before the invasion?”
 
-“As certain as the model allows,” Adrian said. “The strongest stable anchor we can resolve lies several months before the first Veyr arrival in the original timeline. The local sky should be clear. No human detection system should have any reason to look for them.”
+“As certain as the model allows,” Adrian said. “The strongest stable anchor we can resolve lies several months before the first recorded hostile arrival at Earth in the original timeline. The local sky should be clear. No human detection system should have any reason to look for them.”
 
 “Where will I emerge?”
 
@@ -28,7 +28,7 @@ Mira stepped down from the platform. “I want to be here too.”
 
 He wanted to tell her not to go. He wanted to dismantle the device, seal the capsule, and find another route that did not require one of them to step through a machine they barely understood. But the Stillhouse had one viable external mission left, the anchor network was holding the rewritten history together, and the only plausible way to restore the original timeline was to introduce LANTERN before the Veyr operation began.
 
-The virus could not be deployed into the present and expected to undo the past. It had to reach the Veyr civilization before their temporal attack on Earth. The pathogen would travel inside infected Veyr carriers, then spread through the FTL logistics network as crews and biological cargo moved between systems. If the synchronization dependency was as central as their evidence suggested, the outbreak could destabilize the distributed anchors before the rewritten history became self-sustaining.
+The virus could not be deployed into the present and expected to undo the past. It had to reach the Veyr civilization before their temporal attack on Earth. The pathogen would travel inside infected Veyr carriers, then spread through the FTL logistics network as crews and biological cargo moved between systems. If the synchronisation dependency was as central as their evidence suggested, the outbreak could destabilise the distributed anchors before the rewritten history became self-sustaining.
 
 Could. Not would.
 
@@ -110,7 +110,7 @@ He pressed his forehead to hers. For a moment, neither moved.
 
 Then Mira stepped onto the platform.
 
-The ring began to rotate. The control surface recognized the biological reference pattern and opened a narrow window through the local causal boundary. The chamber clocks registered the field's formation. The Stillhouse's passive record started a new line.
+The ring began to rotate. The control surface recognised the biological reference pattern and opened a narrow window through the local causal boundary. The chamber clocks registered the field's formation. The Stillhouse's passive record started a new line.
 
 Adrian stood at the console, one hand on the manual override.
 

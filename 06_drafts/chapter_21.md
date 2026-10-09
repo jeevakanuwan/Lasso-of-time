@@ -16,7 +16,7 @@ Mira kept her hands on the table. “My origin is Earth.”
 
 “Not yet.”
 
-The translator paused, as if deciding whether the answer belonged to a recognized category.
+The translator paused, as if deciding whether the answer belonged to a recognised category.
 
 “Your biological structure is human-like. Your temporal signature is incompatible with local history.”
 
@@ -52,7 +52,7 @@ The examiner pointed to the image.
 
 The examiner's filament brightened. For a moment, the phase signal in the room slipped out of rhythm. The examiner withdrew its hand, and the display returned to normal.
 
-Mira recognized the reaction. The Veyr system was not simply reading the temporal signature. It was trying to reconcile a human reference state with a model in which humanity had not yet become relevant. Her presence was an anomaly the system could classify only as a contradiction.
+Mira recognised the reaction. The Veyr system was not simply reading the temporal signature. It was trying to reconcile a human reference state with a model in which humanity had not yet become relevant. Her presence was an anomaly the system could classify only as a contradiction.
 
 That contradiction was useful. It might keep the Veyr focused on her long enough for LANTERN to spread.
 
@@ -68,7 +68,7 @@ She could not see it, but she could infer the sequence. A sealed module had been
 
 The ship accelerated.
 
-Mira felt the change through the floor, though there was no conventional engine vibration. The transit system had engaged its FTL field. A sequence of phase pulses travelled through the corridor membranes, synchronizing the ship's internal systems for the jump.
+Mira felt the change through the floor, though there was no conventional engine vibration. The transit system had engaged its FTL field. A sequence of phase pulses travelled through the corridor membranes, synchronising the ship's internal systems for the jump.
 
 The network had begun moving the sample.
 

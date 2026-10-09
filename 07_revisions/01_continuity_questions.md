@@ -2,28 +2,45 @@
 
 ## Resolved: Why does humanity return?
 
-The Veyr's altered history depends on a distributed temporal anchor network. The virus disrupts the biological systems needed to synchronize the anchors. The imposed history loses stability, and the baseline history returns.
+The Veyr's altered history depends on a distributed temporal anchor network. LANTERN disrupts a fictional biological coordination pathway needed to synchronize the anchors. The imposed history loses stability, and the baseline history returns. The transition is not a rewind.
 
 ## Resolved: How does the virus travel between stars?
 
-It travels inside infected Veyr personnel and biological cargo aboard FTL ships. The FTL network accelerates ordinary physical transmission; it does not transmit infection by itself.
+It travels inside infected Veyr personnel and biological cargo aboard FTL ships. The network accelerates ordinary physical transmission; it does not transmit infection by itself.
 
 ## Resolved: Why do Adrian and Mira remember?
 
-AION preserves Adrian's causal reference. Mira's temporal transit preserves her connection to the Veyr device's reference state. Both are exceptions to the restored timeline's ordinary memory.
+AION preserves Adrian's causal reference. Mira's transit preserves her connection to the Veyr device's reference state. Their ordinary selves in the restored timeline do not remember the war.
 
 ## Resolved: How do they find one another?
 
-A chronometric anomaly recorded by AION appears independently in Mira's research. They follow the shared signal. Their reunion is confirmed by private memories neither could have learned from the restored timeline.
+Adrian searches for a chronometric signature recorded by AION. Mira independently investigates a matching anomaly in her research. A private memory—the “stubborn term”—confirms that their connection is not coincidence.
 
-## Resolved: How do they live in prehistory without changing recorded history?
+## Resolved: Why does Mira not arrive on Adrian's Stillhouse platform?
 
-They use the Veyr device with AION as a causal reference, select an isolated period and location, avoid known settlements and routes, and deliberately leave no influence on documented events.
+The Return Interlock resolves causal compatibility, not a guaranteed physical address. It preserves her continuity but routes her to a separate stable calibration site in the restored history. The matching phase anomaly becomes the clue that leads her to Adrian.
 
-## Still open for prose drafting
+## Resolved: What sensory detail tells Adrian that history has returned?
 
-1. How does Mira avoid detection long enough to deploy the virus?
-2. What precise sensory detail makes Adrian realize human history has returned?
-3. What is the private memory that conclusively proves Mira remembers the war?
-4. What kind of landscape and climate do they choose in prehistory?
-5. How should the final scene convey the passage of a lifetime without becoming sentimental?
+The first human voice he hears is an ordinary weather presenter, followed by routine traffic and shipping reports. The mundane broadcasts contrast with the alien world he has been watching.
+
+## Resolved: What landscape do they choose in prehistory?
+
+A remote river valley beneath a ridge, with rain and suitable soil for planting. They avoid known settlements, routes, and archaeological sites and do not try to influence other communities.
+
+## Resolved: The Veyr's fate
+
+The baseline human civilization returns and continues. The Veyr civilization also survives in the restored baseline history, but LANTERN causes heavy casualties across its biological and temporal infrastructure. The collapse destroys the Veyr's imposed anti-human history, not every Veyr everywhere. Survivors remain possible; the story must not imply universal extermination. Because Mira deploys LANTERN before the invasion, the outbreak is part of the restored history too.
+
+## Resolved: The bootstrap equation
+
+The equation in Adrian's notebook is a deliberate closed causal loop. Adrian uses it to derive AION; Mira carries its implications into the mission; after reunion, Adrian and Mira use the Veyr device to send the equation back to the precise earlier point at which it appeared in his notebook. The loop has no independent first author. Its payoff is both practical—the boundary condition helps explain the failure of the imposed timeline—and thematic: time has lassoed their discovery back to its own beginning. The characters recognise the paradox rather than pretending it has a conventional origin.
+
+## Remaining review notes
+
+- **The nearly twenty-year war:** The duration is consistent, but the prose shows selected episodes. Add references to earlier shared history only if readers need more scale; avoid a new large time jump in the compressed AION/LANTERN sequence.
+- **Chapter hooks:** Chapter 12 now ends on a concrete early-arriving pulse. During the final line edit, consider whether Chapter 13 needs a more concrete hook without adding explanatory exposition.
+
+## Final continuity rule
+
+The ending should preserve the core principle: **AION preserves observers, not history.** The travellers retain their subjective continuity, but the restored world has no public memory of the war. The Veyr survive with heavy casualties, and the equation's closed loop is intentionally resolved without a first origin.

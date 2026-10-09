@@ -12,7 +12,7 @@ She checked the destination again. The date fell before the Veyr invasion. The e
 
 There would be no warning. Mira could not send a message to Earth without risking the very timeline she was trying to save. Even if someone believed her, their response might alter the sequence in ways she could not predict. The mission was not to convince humanity to prepare for a war. It was to prevent the war from becoming necessary.
 
-She activated the descent package. The temporal device had placed her above the planet, but its energy reserve was nearly depleted. The return route remained unresolved. She had one chance to move into the upper atmosphere, deploy the biological sample through the Veyr's operational environment, and leave before the device failed.
+She activated the descent package. The temporal device had placed her above the planet, but its energy reserve was nearly depleted. The return route remained unresolved. She had enough reserve for one short-range transfer after reaching the upper atmosphere, but no reliable route back. She would have to get the sample into the Veyr's logistics system before the device failed.
 
 Except there was no Veyr operational environment on Earth.
 
@@ -42,9 +42,9 @@ The compartment's lights came on.
 
 Mira froze.
 
-A sensor array had detected her arrival. The temporal device's field collapsed behind her, leaving the suit's emergency systems to maintain pressure. She had no time to return to Earth, and no energy to make another jump. The vessel's internal alarm began to pulse through the hull.
+A sensor array had detected her arrival. The temporal device's field collapsed behind her, leaving the suit's emergency systems to maintain pressure. She had no energy left for a return jump. The vessel's internal alarm began to pulse through the hull.
 
-She attached the sample capsule to the service module's biological transfer port. The port recognized the container as an unclassified input. A mechanical seal opened. Mira transferred the prepared sample into the module's sterile reservoir and initiated the containment sequence. The transfer took four seconds.
+She attached the sample capsule to the service module's biological transfer port. The port recognised the container as an unclassified input. A mechanical seal opened. Mira transferred the prepared sample into the module's sterile reservoir and initiated the containment sequence. The transfer took four seconds.
 
 The alarm changed pitch.
 

@@ -12,7 +12,7 @@ The virus attacks a fictional biological pathway that the Veyr need to maintain 
 
 Because the anchors must remain synchronized, failures propagate through the network. The Veyr cannot repair the nodes quickly enough to keep the imposed history stable.
 
-When the network loses coherence, the imposed history ceases to be maintained. The universe settles into the baseline history that does not depend on the Veyr intervention.
+When the network loses coherence, the imposed history ceases to be maintained. The universe settles into the restored human baseline: the invasion never occurs, and human history continues without the war. Mira's intervention leaves one deliberate footprint in the Veyr's history, however. LANTERN has already entered their biological logistics network, so the Veyr civilization survives but suffers heavy casualties in its biological and temporal infrastructure. This is not universal extermination, nor is the restored history untouched in every respect; it is human baseline history with the consequences of the successful countermeasure retained.
 
 ## Why this is not a simple rewind
 
@@ -21,6 +21,10 @@ A rewind would return every object and person to an earlier state. That is not w
 Instead, the active history becomes the baseline history. Ordinary people remember only that history. Adrian's memory survives because AION isolated his causal reference. Mira's memory survives because she traveled through the Veyr device with a preserved temporal reference.
 
 The two of them are continuity exceptions, not evidence that everyone remembers two timelines.
+
+## The equation's closed loop
+
+The equation Adrian finds in his notebook has no independent first author. Adrian uses it to develop AION; the later mission and restored-world investigation reveal how it constrains the network's causal boundary. After reuniting, Adrian and Mira use the Veyr device to send the equation back to the precise earlier moment when it appeared in his notebook. It is a deliberate bootstrap loop, not a claim that the equation was created from nothing by ordinary physics. Its narrative payoff is that the characters complete the loop knowingly, and the equation becomes a concrete link between AION, the mission, and the title *The Lasso of Time*.
 
 ## The FTL network
 
@@ -35,6 +39,8 @@ Adrian cannot simply search for a girlfriend who never existed in his restored h
 Mira independently notices a matching anomaly in her research. Each follows the same unexplained signal through scientific work. Their eventual meeting is therefore caused by the choices they make after restoration.
 
 The final proof is a private memory that has no public record and could not be inferred from their ordinary lives.
+
+The Veyr device's Return Interlock resolves **causal compatibility**, not a guaranteed physical address. AION's signature can preserve a traveller's continuity even when the original spatial destination is erased or no longer stable. A successful reference lock may therefore return a traveller to a different stable location; this is why Mira can reach the restored history without appearing on Adrian's Stillhouse platform.
 
 ## Prehistory logic
 
