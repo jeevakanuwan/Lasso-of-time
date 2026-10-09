@@ -63,7 +63,7 @@ def add_field(run,instr):
 def add_inline(p,text):
     text=re.sub(r"!\[([^\]]*)\]\([^)]+\)",r"\1",text)
     text=re.sub(r"\[([^\]]+)\]\([^)]+\)",r"\1",text)
-    pat=re.compile(r"(\*\*.+?\*\*|__.+?__|\*.+?\*|_.+?_|\\x60[^\\x60]+\\x60)")
+    pat=re.compile(r"(\*\*.+?\*\*|__.+?__|\*.+?\*|_.+?_|\x60[^\x60]+\x60)")
     pos=0
     for m in pat.finditer(text):
         if m.start()>pos: p.add_run(text[pos:m.start()])
@@ -83,16 +83,16 @@ def add_block(doc,block):
     if block.startswith("## "): doc.add_heading(block[3:].strip(),level=2); return
     if block.startswith(">"):
         p=doc.add_paragraph(style="Quote"); p.paragraph_format.left_indent=Inches(.22)
-        add_inline(p,"\n".join(re.sub(r"^\\s*>\\s?","",x) for x in block.splitlines())); return
-    if all(re.match(r"^\\s*[-*+]\\s+",x) for x in block.splitlines()):
+        add_inline(p,"\n".join(re.sub(r"^\s*>\s?","",x) for x in block.splitlines())); return
+    if all(re.match(r"^\s*[-*+]\s+",x) for x in block.splitlines()):
         for x in block.splitlines():
-            p=doc.add_paragraph(style="List Bullet"); add_inline(p,re.sub(r"^\\s*[-*+]\\s+","",x))
+            p=doc.add_paragraph(style="List Bullet"); add_inline(p,re.sub(r"^\s*[-*+]\s+","",x))
         return
-    if all(re.match(r"^\\s*\\d+[.)]\\s+",x) for x in block.splitlines()):
+    if all(re.match(r"^\s*\d+[.)]\s+",x) for x in block.splitlines()):
         for x in block.splitlines():
-            p=doc.add_paragraph(style="List Number"); add_inline(p,re.sub(r"^\\s*\\d+[.)]\\s+","",x))
+            p=doc.add_paragraph(style="List Number"); add_inline(p,re.sub(r"^\s*\d+[.)]\s+","",x))
         return
-    p=doc.add_paragraph(); add_inline(p,re.sub(r"\\s*\\n\\s*"," ",block))
+    p=doc.add_paragraph(); add_inline(p,re.sub(r"\s*\n\s*"," ",block))
 
 cover=ART/"cover.png"; make_art(cover,"The Lasso of Time",cover=True)
 arts=[]
@@ -141,7 +141,7 @@ for idx,path in enumerate(chapters,1):
         if not ln.strip():
             if buf: add_block(doc,"\n".join(buf).strip()); buf=[]
             continue
-        if re.match(r"^\\s*(---+|\\*\\*\\*+|___+)\\s*$",ln):
+        if re.match(r"^\s*(---+|\*\*\*+|___+)\s*$",ln):
             if buf: add_block(doc,"\n".join(buf).strip()); buf=[]
             p=doc.add_paragraph(); p.paragraph_format.space_after=Pt(3)
             pPr=p._p.get_or_add_pPr(); borders=OxmlElement("w:pBdr"); bottom=OxmlElement("w:bottom")
